@@ -3,7 +3,7 @@
     --primary-color: #E9E9E1;
     --hover-color: #C4C4BD;
     --accent-color: #695DC3;
-    --pfp-size: 200px;
+    --pfp-size: 250px;
     --icon-size: 50px;
     --line-thickness: 20px;
     --heading-font: 'Archivo Black', Verdana, sans-serif;
@@ -45,12 +45,14 @@ header {
 
 header table {
     padding-top: var(--line-thickness);
+    width: 100%;
 }
 
 th {
     font-size: 1.2em;
     padding: 5px;
     font-family: var(--heading-font);
+    text-align: left;
 }
 
 td {
@@ -78,7 +80,7 @@ td {
 }
 
 #main {
-    margin-left: 260px;
+    margin-left: calc(3 * var(--line-thickness) + var(--pfp-size));
     margin-top: 0px;
     padding: var(--line-thickness);
     min-height: 100%;
@@ -111,7 +113,7 @@ td {
 }
 
 .date {
-    width: var(--pfp-size);
+    width: 25%;
 }
 
 .what {
