@@ -56,7 +56,6 @@ th {
 td {
     font-size: 1em;
     padding: 5px;
-    border-radius: 5px;
 }
 
 .icon {
@@ -68,6 +67,10 @@ td {
     width: var(--icon-size);
     display: block;
     margin: 0 auto;
+}
+
+.link {
+    border-radius: 5px;
 }
 
 .link:hover {
@@ -134,5 +137,4 @@ footer div {
     width: 30%;
     display: inline-block;
     padding: 5px;
-    border-radius: 5px;
 }
