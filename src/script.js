@@ -1,3 +1,3 @@
 $("document").ready(function() {
-    $("header").load("header.html");
+    $("header").load("https://cbedin.github.io/src/header.html");
 });
