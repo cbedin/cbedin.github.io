@@ -78,6 +78,7 @@ td {
     margin-left: 260px;
     margin-top: 0px;
     padding: var(--line-thickness);
+    min-height: 100%;
 }
 
 #main h1 {
