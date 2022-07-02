@@ -48,16 +48,15 @@ header table {
     width: 100%;
 }
 
-th {
+header th {
     font-size: 1.2em;
     padding: 5px;
     font-family: var(--heading-font);
     text-align: left;
 }
 
-td {
+header td {
     font-size: 1em;
-    padding: 5px;
 }
 
 .icon {
