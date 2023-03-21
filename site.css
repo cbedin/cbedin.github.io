@@ -4,8 +4,10 @@
     --hover-color: #C4C4BD;
     --accent-color: #695DC3;
     --pfp-size: 250px;
+    --pfp-size-phone: 100px;
     --icon-size: 50px;
     --line-thickness: 20px;
+    --line-thickness-phone: 10px;
     --heading-font: 'Archivo Black', Verdana, sans-serif;
     --body-font: 'League Spartan', Verdana, sans-serif;
 }
@@ -26,8 +28,8 @@ header {
     height: 100%;
     padding: var(--line-thickness);
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
     overflow-x: hidden;
     border-right: var(--line-thickness) solid var(--accent-color);
 }
@@ -43,20 +45,37 @@ header {
     width: var(--pfp-size);
 }
 
-header table {
+#vertical-table {
     padding-top: var(--line-thickness);
     width: 100%;
 }
 
-header th {
+#vertical-table th {
     font-size: 1.2em;
     padding: 5px;
     font-family: var(--heading-font);
     text-align: left;
 }
 
-header td {
+#vertical-table td {
     font-size: 1em;
+}
+
+#horizontal-table {
+    display: none;
+    padding-left: var(--line-thickness-phone);
+    float: left;
+}
+
+#horizontal-table th {
+    font-size: 1em;
+    padding: 2px;
+    font-family: var(--heading-font);
+    text-align: left;
+}
+
+#horizontal-table td {
+    font-size: 0.8em;
 }
 
 .icon {
@@ -112,30 +131,58 @@ header td {
 }
 
 .date {
-    width: 25%;
+    width: 15%;
 }
 
 .what {
-    width: 40%;
+    width: 35%;
 }
 
 .subtext {
     font-size: 0.8em;
 }
 
-footer {
-    padding: var(--line-thickness);
-    background-color: var(--primary-color);
-    border-top: var(--line-thickness) solid var(--accent-color);
-    width: 100%;
-    margin-left: -20px;
-    font-size: 0.6em;
-    vertical-align: middle;
-    text-align: center;
+.bio {
+    font-size: 1.25em;
 }
 
-footer div {
-    width: 30%;
-    display: inline-block;
-    padding: 5px;
+@media screen and (max-width: 800px) {
+    body {
+        margin: 0;
+    }
+    
+    header {
+        width: 100%;
+        height: var(--pfp-size-phone);
+        padding: var(--line-thickness-phone);
+        position: static;
+        overflow-x: hidden;
+        border-right: none;
+        margin-top: 0;
+        margin-left: 0;
+        border-bottom: var(--line-thickness-phone) solid var(--accent-color);
+    }
+
+    .pfp-frame {
+        width: var(--pfp-size-phone);
+        height: var(--pfp-size-phone);
+        border-radius: var(--pfp-size-phone);
+        float: left;
+    }
+    
+    .pfp-frame img {
+        width: var(--pfp-size-phone);
+    }
+
+    #vertical-table {
+        display: none;
+    }
+
+    #horizontal-table {
+        display: block;
+    }
+
+    #main {
+        margin-left: 0px;
+    }
 }
