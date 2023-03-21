@@ -76,17 +76,11 @@ header {
 
 #horizontal-table td {
     font-size: 0.8em;
+    padding: 0px;
 }
 
-.icon {
-    vertical-align: middle;
-    text-align: center;
-}
-
-.icon img {
-    width: var(--icon-size);
-    display: block;
-    margin: 0 auto;
+#horizontal-table-spacer {
+    width: var(--line-thickness-phone);
 }
 
 .link {
@@ -184,5 +178,25 @@ header {
 
     #main {
         margin-left: 0px;
+    }
+
+    #main h1 {
+        font-size: 1.25em;
+    }
+    
+    #main h2 {
+        font-size: 1em;
+    }
+    
+    #main td {
+        font-size: 0.8em;
+    }
+    
+    .subtext {
+        font-size: 0.6em;
+    }
+    
+    .bio {
+        font-size: 1em;
     }
 }
