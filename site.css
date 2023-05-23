@@ -200,3 +200,13 @@ header {
         font-size: 1em;
     }
 }
+
+@media print {
+    header {
+        display: none;
+    }
+
+    #main {
+        margin-left: 0;
+    }
+}
