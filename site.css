@@ -34,6 +34,22 @@ header {
     border-right: var(--line-thickness) solid var(--accent-color);
 }
 
+#pfp-main {
+    display: block;
+}
+
+#pfp-main:hover {
+    display: none;
+}
+
+#pfp-alt {
+    display: none;
+}
+
+#pfp-alt:hover {
+    display: block;
+}
+
 .pfp-frame {
     width: var(--pfp-size);
     height: var(--pfp-size);
