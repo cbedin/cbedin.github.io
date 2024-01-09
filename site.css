@@ -18,7 +18,7 @@ body {
 }
 
 a {
-    color: #000000;
+    color: var(--accent-color);
     text-decoration: none;
 }
 
@@ -32,6 +32,10 @@ header {
     left: 0px;
     overflow-x: hidden;
     border-right: var(--line-thickness) solid var(--accent-color);
+}
+
+header a {
+    color: #000000;
 }
 
 .pfp-frame {
