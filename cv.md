@@ -13,7 +13,7 @@ layout: default
     Ph.D. in Linguistics <i>(in progress)</i><br>
     M.A. in Linguistics <i>(in progress)</i>
     </td>
-    <td>University of California, Santa Barbara</td>
+    <td>UC Santa Barbara</td>
 </tr>
 <tr>
     <td>Fall 2018–Summer 2022</td>
@@ -25,7 +25,7 @@ layout: default
     Phi Beta Kappa
     </span>
     </td>
-    <td>University of California, Berkeley</td>
+    <td>UC Berkeley</td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@ layout: default
 <tr>
     <td>2022–2027</td>
     <td>Regents Fellowship in Linguistics</td>
-    <td>University of California, Santa Barbara</td>
+    <td>UC Santa Barbara</td>
 </tr>
 </table>
 
@@ -70,7 +70,7 @@ layout: default
     <td>Department Service Award</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ layout: default
     <td>Outstanding GSI Award</td>
     <td>
     Department of Electrical Engineering and Computer Science<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ layout: default
     <td>Linguistics Honors Program</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ layout: default
     <td>Linguistics Enrichment Experience Program (LEEP)</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ layout: default
     <td>Dean's Honors List: High Distinction in General Scholarship</td>
     <td>
     College of Letters and Sciences<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -125,7 +125,7 @@ layout: default
     </td>
     <td>
     Graduate Division<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ layout: default
     </td>
     <td>
     Major League Hacking (MLH)<br>
-    <i>University of California, Los Angeles</i>
+    <i>UC Los Angeles</i>
     </td>
 </tr>
 </table>
@@ -159,7 +159,7 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 </table>
@@ -181,7 +181,7 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -294,7 +294,7 @@ layout: default
     <td>"In terms of gender, how do you describe yourself?": Counterideology and interaction in trans-centric conversation</td>
     <td>
     The 27th Center for Language, Interaction and Culture-Graduate Student Association (CLIC-GSA) Conference<br>
-    <i>University of California, Los Angeles</i>
+    <i>UC Los Angeles</i>
     </td>
 </tr>-->
 <tr>
@@ -354,7 +354,7 @@ layout: default
     <td>What do <i>you guys</i> and <i>y'all</i> tell us about inclusive language? Race, place, gender, and linguistic ownership in metalinguistic debates</td>
     <td>
     The 26th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -386,7 +386,7 @@ layout: default
     </td>
     <td>
     The Sixth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -425,7 +425,7 @@ layout: default
     <td>Gender-Inclusive Language for Teaching</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ layout: default
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@ layout: default
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ layout: default
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -457,7 +457,7 @@ layout: default
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -470,7 +470,7 @@ layout: default
     <td>Colloquium talk: "Operationalizing gender: Towards participant-driven quantitative methods in linguistics"</td>
     <td>
     Department of Linguistics Graduate Student Open House<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ layout: default
     <td>Commencement speaker</td>
     <td>
     Department of Linguistics Commencement Ceremony<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -506,7 +506,7 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ layout: default
     </td>
     <td>
     Linguistics Research Apprenticeship Program (LRAP)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -548,7 +548,7 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ layout: default
     </td>
     <td>
     Linguistics Research Apprenticeship Program (LRAP)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -572,7 +572,7 @@ layout: default
     <td>Teaching Assistant</td>
     <td>
     Linguistics 111: Advanced Computational Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ layout: default
     <td>Teaching Assistant</td>
     <td>
     Linguistics 15: Language in Life<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -588,7 +588,7 @@ layout: default
     <td>Teaching Assistant</td>
     <td>
     Linguistics 132: Language, Gender, and Sexuality<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ layout: default
     <td>Teaching Assistant</td>
     <td>
     Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -604,7 +604,7 @@ layout: default
     <td>Reader</td>
     <td>
     Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ layout: default
     <td>Instructor</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -623,7 +623,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -645,7 +645,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -667,7 +667,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -678,7 +678,7 @@ layout: default
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -686,7 +686,7 @@ layout: default
     <td>Course Tutor</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -694,7 +694,7 @@ layout: default
     <td>Academic Intern</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -709,7 +709,7 @@ layout: default
     </td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ layout: default
     </td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ layout: default
     <td>Senior Mentor, Electrical Engineering 16A</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -736,7 +736,7 @@ layout: default
     <td>Senior Mentor, Electrical Engineering 16A</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ layout: default
     <td>Junior Mentor, Electrical Engineering 16A</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
@@ -759,7 +759,7 @@ layout: default
     <td>Treasurer</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -767,7 +767,7 @@ layout: default
     <td>Peer Mentor</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -775,7 +775,7 @@ layout: default
     <td>Graduate Student Representative</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -783,7 +783,7 @@ layout: default
     <td>Performer (Drag Queen Story Hour) - Block Party for Liberation</td>
     <td>
     Graduate Student Association (GSA)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -791,7 +791,7 @@ layout: default
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 26<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -799,7 +799,7 @@ layout: default
     <td>Performer - Grad Drag Dinner</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU) and Graduate Student Association (GSA)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -807,7 +807,7 @@ layout: default
     <td>Colloquium Coordinator</td>
     <td>
     Department of Linguistics<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -815,7 +815,7 @@ layout: default
     <td>Reviewer</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 26<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -823,7 +823,7 @@ layout: default
     <td>Session Moderator</td>
     <td>
     The 26th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -831,7 +831,7 @@ layout: default
     <td>Performer - Grad Drag Show</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU) and Graduate Student Association (GSA)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -839,7 +839,7 @@ layout: default
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 25<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -847,7 +847,7 @@ layout: default
     <td>Lab Manager</td>
     <td>
     Trans Research in Linguistics Lab (TRILL)<br>
-    <i>University of California, Santa Barbara</i>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -855,7 +855,7 @@ layout: default
     <td>Organizer</td>
     <td>
     The Sixth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -863,7 +863,7 @@ layout: default
     <td>President</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -871,7 +871,7 @@ layout: default
     <td>Officer</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -879,7 +879,7 @@ layout: default
     <td>President</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -887,7 +887,7 @@ layout: default
     <td>External Vice President</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -895,7 +895,7 @@ layout: default
     <td>Orientation Leader</td>
     <td>
     New Student Services (NSS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -903,7 +903,7 @@ layout: default
     <td>Organizer</td>
     <td>
     The Fifth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -911,7 +911,7 @@ layout: default
     <td>Socials Chair</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -919,7 +919,7 @@ layout: default
     <td>Organizer</td>
     <td>
     The Fourth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -927,7 +927,7 @@ layout: default
     <td>Orientation Leader</td>
     <td>
     New Student Services (NSS)<br>
-    <i>University of California, Berkeley</i>
+    <i>UC Berkeley</i>
     </td>
 </tr>
 </table>
