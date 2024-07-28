@@ -166,6 +166,7 @@ layout: default
 
 ## B.A. honors thesis
 
+<div style="overflow-x: auto;">
 <table>
 <tr>
     <td>Fall 2021—Spring 2022</td>
@@ -185,6 +186,7 @@ layout: default
     </td>
 </tr>
 </table>
+</div>
 
 ## Proceedings publications
 <table>
@@ -404,11 +406,12 @@ layout: default
 </table>
 
 ## Workshops
+<div style="overflow-x: auto;">
 <table>
 <tr>
     <td>January 2024</td>
     <td>
-    The gender question: Current best practices for asking about sex/gender in linguistic research<br>
+    Current best practices for asking about sex/gender in linguistic research<br>
     <span class="subtext">
     Organized session<br>
     Cooper Bedin, Montreal Benesch, Kirby Conrod, Marina Zhukova, and Lal Zimman<br>
@@ -461,6 +464,7 @@ layout: default
     </td>
 </tr>
 </table>
+</div>
 
 ## Other presentations
 
