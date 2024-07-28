@@ -217,9 +217,9 @@ layout: default
 <tr>
     <td>2024</td>
     <td>
-    <i>You guys</i>, <i>y'all, and queer and trans language<br>
+    <i>You guys</i>, <i>y'all</i>, and queer and trans language<br>
     <span class="subtext">
-    <a href="https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40" target="_blank">[link]</a>
+    <a href="https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40" target="_blank">[lsadc.org/af_membercommittee.asp?committeeid=14&sp=40]</a>
     </span>
     </td>
     <td>
