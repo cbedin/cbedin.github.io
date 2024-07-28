@@ -145,6 +145,25 @@ layout: default
 
 # Research, presentations, and publications
 
+## M.A. thesis _(in progress)_
+
+<table>
+<tr>
+    <td>Winter 2024–Present</td>
+    <td>
+    "A tale of two pronouns": Race, place, gender, and the indexical tangle of <i>you guys</i> and <i>y'all</i><br>
+    <span class="subtext">
+    Committee chair: Lal Zimman, Ph.D.<br>
+    Committee members: Mary Bucholtz, Ph.D.; Simon Todd, Ph.D.<br>
+    </span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>University of California, Santa Barbara</i>
+    </td>
+</tr>
+</table>
+
 ## B.A. honors thesis
 
 <table>
@@ -198,13 +217,13 @@ layout: default
 <tr>
     <td>2024</td>
     <td>
-    <i>You guys</i>, <i>y'all>, and queer and trans language<br>
+    <i>You guys</i>, <i>y'all, and queer and trans language<br>
     <span class="subtext">
-    <a href="https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40" target="_blank">[lsadc.org/af_membercommittee.asp?committeeid=14&sp=40]</a>
+    <a href="https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40" target="_blank">[link]</a>
     </span>
     </td>
     <td>
-    Committee on LGBTQ+[Z] Issues in Linguistics (COZIL) Pride month blog series<br>
+    Committee on LGBTQ+[Z] Issues in Linguistics (COZIL)<br>
     <i>Linguistic Society of America (LSA)</i>
     </td>
 </tr>
