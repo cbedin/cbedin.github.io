@@ -14,7 +14,7 @@ these are some things i do research on!
 * [perceptions of gender, sexuality, and the voice](#perceptual-sociophonetics)
 * [trans-affirming statistical/quantitative methods](#sex-and-gender-in-linguistics)
 
-you can read more about my [research](#research) and [teaching](#teaching) below
+you can read more about my [research](#research) and [teaching](#teaching) below.
 
 thanks for visiting my little page 👾💕
 
