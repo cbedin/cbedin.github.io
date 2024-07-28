@@ -11,7 +11,7 @@ i'm a linguist studying queer and trans language. i'm a graduate student at uc s
 these are some things i do research on!
 
 * [english second-person pronouns _you guys_ and _y'all_](#you-guys-and-yall)
-* [gender, sexuality, and the voice](#sociophonetics)
+* [perceptions of gender, sexuality, and the voice](#sociophonetics)
 * [trans-affirming statistical/quantitative methods](#sex-and-gender-in-linguistics)
 
 someday soon you'll be able to read more about my [research](#research) and [teaching](#teaching) below
