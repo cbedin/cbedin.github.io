@@ -56,7 +56,35 @@
 
 @font-face {
   font-family: 'Silkscreen';
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   src: url('../fonts/Silkscreen/Silkscreen-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Space_Mono/SpaceMono-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Space_Mono/SpaceMono-Italic.ttf');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/Space_Mono/SpaceMono-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Space_Mono/SpaceMono-BoldItalic.ttf');
 }
