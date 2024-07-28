@@ -6,7 +6,7 @@ layout: default
 
 ## Education
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Fall 2022–Present</td>
     <td>
@@ -27,11 +27,11 @@ layout: default
     </td>
     <td>UC Berkeley</td>
 </tr>
-</table>
+</table></div>
 
 ## Other education experience
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>June 2024</td>
     <td>Lavender Languages Institute (LLI)</td>
@@ -45,11 +45,11 @@ layout: default
     <i>University of Massachusetts, Amherst</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Fellowships
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>2023–2026</td>
     <td>Graduate Research Fellowship</td>
@@ -60,11 +60,11 @@ layout: default
     <td>Regents Fellowship in Linguistics</td>
     <td>UC Santa Barbara</td>
 </tr>
-</table>
+</table></div>
 
 ## Awards and honors
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>May 2022</td>
     <td>Department Service Award</td>
@@ -110,11 +110,11 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Competitions
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>March 2024</td>
     <td>
@@ -141,13 +141,13 @@ layout: default
     <i>UC Los Angeles</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 # Research, presentations, and publications
 
 ## M.A. thesis _(in progress)_
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Winter 2024–Present</td>
     <td>
@@ -162,12 +162,10 @@ layout: default
     <i>UC Santa Barbara</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## B.A. honors thesis
-
-<div style="overflow-x: auto;">
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Fall 2021—Spring 2022</td>
     <td>
@@ -185,11 +183,10 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
-</div>
+</table></div>
 
 ## Proceedings publications
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>2024</td>
     <td>
@@ -211,11 +208,11 @@ layout: default
     </td>
     <td>Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS)</td>
 </tr>
-</table>
+</table></div>
 
 ## Web publications
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>2024</td>
     <td>
@@ -257,11 +254,11 @@ layout: default
     <i>Berkeley, CA</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Conference presentations
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>October 2024</td>
     <td>
@@ -391,10 +388,10 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Poster sessions
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>August 2023</td>
     <td>Towards a model of the listener in perception of queer speech</td>
@@ -403,11 +400,10 @@ layout: default
     <i>Prague Congress Center</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Workshops
-<div style="overflow-x: auto;">
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>January 2024</td>
     <td>
@@ -463,12 +459,11 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
-</div>
+</table></div>
 
 ## Other presentations
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>February 2024</td>
     <td>Colloquium talk: "Operationalizing gender: Towards participant-driven quantitative methods in linguistics"</td>
@@ -498,10 +493,10 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Other research experience
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Winter 2023–Present</td>
     <td>
@@ -566,11 +561,11 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 # Teaching
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Spring 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
@@ -701,10 +696,10 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Other teaching experience
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Spring 2022 [Sem.]</td>
     <td>
@@ -751,13 +746,13 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 # Service, affiliations, and skills
 
 ## Academic service
 
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>September 2024–Present</td>
     <td>Treasurer</td>
@@ -934,10 +929,10 @@ layout: default
     <i>UC Berkeley</i>
     </td>
 </tr>
-</table>
+</table></div>
 
 ## Labs
-<table>
+<div class="cv-table-wrapper;"><table>
     <tr><td>
         Computational Psycholinguistics of Listening and Speaking (CPLS) Lab<br>
         <span class="subtext">
@@ -954,10 +949,10 @@ layout: default
             <a href="https://trillucsb.org/" target="_blank">[trillucsb.org]</a>
         </span>
     </td></tr>
-</table>
+</table></div>
 
 ## Memberships and affiliations
-<table>
+<div class="cv-table-wrapper;"><table>
     <tr><td>American Anthropological Association (AAA)</td></tr>
     <tr><td>
         Committee on LGBTQ+ [Z] Issues in Linguistics (COZIL)<br>
@@ -965,10 +960,10 @@ layout: default
     </td></tr>
     <tr><td>International Phonetic Association (IPA)</td></tr>
     <tr><td>Linguistic Society of America (LSA)</td></tr>
-</table>
+</table></div>
 
 ## Languages and skills
-<table>
+<div class="cv-table-wrapper;"><table>
 <tr>
     <td>Languages</td>
     <td>
@@ -983,4 +978,4 @@ layout: default
     <i>Computational:</i> Python, R, Java, C, JavaScript, HTML, CSS
     </td>
 </tr>
-</table>
+</table></div>
