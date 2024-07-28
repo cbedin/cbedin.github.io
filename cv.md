@@ -196,6 +196,19 @@ layout: default
 
 <table>
 <tr>
+    <td>2024</td>
+    <td>
+    <i>You guys</i>, <i>y'all>, and queer and trans language<br>
+    <span class="subtext">
+    <a href="https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40" target="_blank">[lsadc.org/af_membercommittee.asp?committeeid=14&sp=40]</a>
+    </span>
+    </td>
+    <td>
+    Committee on LGBTQ+[Z] Issues in Linguistics (COZIL) Pride month blog series<br>
+    <i>Linguistic Society of America (LSA)</i>
+    </td>
+</tr>
+<tr>
     <td>2022</td>
     <td>
     Gendered lexicon of Mandarin Chinese<br>
