@@ -20,7 +20,7 @@ thanks for visiting my little page 👾💕
 
 # research
 
-below are little blurbs and citations about my current/ongoing research projects! i've linked materials that are already publicly available online, but i am also (usually) happy to share slides if you send me an email.
+below are little blurbs and citations for my current/ongoing research projects! i've linked materials that are already publicly available online, but i am also (usually) happy to share slides if you send me an email.
 
 ## _you guys_ and _y'all_
 
