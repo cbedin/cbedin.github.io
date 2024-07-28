@@ -558,9 +558,12 @@ footer {
 }
 
 .logo-frame {
-  border-radius: 50%;
   overflow: hidden;
-  border: 2px solid #695DC3;
+  border: double 7px transparent;
+  border-radius: 50%;
+  background-image: linear-gradient(white, white), linear-gradient(to bottom, #4655b2, #03bdda, #5ed49b, #fcef94, #fca32b, #fe781f);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
 }
 
 .logo-frame img {
