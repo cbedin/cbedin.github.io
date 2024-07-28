@@ -6,7 +6,7 @@ layout: default
 
 ## Education
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Fall 2022–Present</td>
     <td>
@@ -31,7 +31,7 @@ layout: default
 
 ## Other education experience
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>June 2024</td>
     <td>Lavender Languages Institute (LLI)</td>
@@ -49,7 +49,7 @@ layout: default
 
 ## Fellowships
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>2023–2026</td>
     <td>Graduate Research Fellowship</td>
@@ -64,7 +64,7 @@ layout: default
 
 ## Awards and honors
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>May 2022</td>
     <td>Department Service Award</td>
@@ -114,7 +114,7 @@ layout: default
 
 ## Competitions
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>March 2024</td>
     <td>
@@ -147,7 +147,7 @@ layout: default
 
 ## M.A. thesis _(in progress)_
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Winter 2024–Present</td>
     <td>
@@ -165,7 +165,7 @@ layout: default
 </table></div>
 
 ## B.A. honors thesis
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Fall 2021—Spring 2022</td>
     <td>
@@ -186,7 +186,7 @@ layout: default
 </table></div>
 
 ## Proceedings publications
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>2024</td>
     <td>
@@ -212,7 +212,7 @@ layout: default
 
 ## Web publications
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>2024</td>
     <td>
@@ -258,7 +258,7 @@ layout: default
 
 ## Conference presentations
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>October 2024</td>
     <td>
@@ -391,7 +391,7 @@ layout: default
 </table></div>
 
 ## Poster sessions
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>August 2023</td>
     <td>Towards a model of the listener in perception of queer speech</td>
@@ -403,7 +403,7 @@ layout: default
 </table></div>
 
 ## Workshops
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>January 2024</td>
     <td>
@@ -463,7 +463,7 @@ layout: default
 
 ## Other presentations
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>February 2024</td>
     <td>Colloquium talk: "Operationalizing gender: Towards participant-driven quantitative methods in linguistics"</td>
@@ -496,7 +496,7 @@ layout: default
 </table></div>
 
 ## Other research experience
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Winter 2023–Present</td>
     <td>
@@ -565,7 +565,7 @@ layout: default
 
 # Teaching
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Spring 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
@@ -699,7 +699,7 @@ layout: default
 </table></div>
 
 ## Other teaching experience
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Spring 2022 [Sem.]</td>
     <td>
@@ -752,7 +752,7 @@ layout: default
 
 ## Academic service
 
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>September 2024–Present</td>
     <td>Treasurer</td>
@@ -932,7 +932,7 @@ layout: default
 </table></div>
 
 ## Labs
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
     <tr><td>
         Computational Psycholinguistics of Listening and Speaking (CPLS) Lab<br>
         <span class="subtext">
@@ -952,7 +952,7 @@ layout: default
 </table></div>
 
 ## Memberships and affiliations
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
     <tr><td>American Anthropological Association (AAA)</td></tr>
     <tr><td>
         Committee on LGBTQ+ [Z] Issues in Linguistics (COZIL)<br>
@@ -963,7 +963,7 @@ layout: default
 </table></div>
 
 ## Languages and skills
-<div class="cv-table-wrapper;"><table>
+<div class="cv-table-wrapper"><table>
 <tr>
     <td>Languages</td>
     <td>
