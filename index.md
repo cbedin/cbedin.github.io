@@ -79,6 +79,8 @@ for my b.a. honors thesis, i ran an experiment looking at what acoustic properti
 
 i presented a poster and wrote a [proceedings paper](https://guarant.cz/icphs2023/399.pdf) for the international congress of phonetic sciences (icphs), applying exemplar theory and modeling to this phenomenon. additionally, i have presented another analysis at the variation and language processing (valp) conference where i used heirarchical clustering to look at listener variation.
 
+i also presented on this work as part of ucsb's grad slam, which is a competition in which graduate students create three-minute public-facing presentations about their research. my talk was the runner-up in the humanities and fine arts division, and is [available to watch online](https://vimeo.com/924279645)! (password: GradSlam2024)
+
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>June 2024</td>
@@ -86,6 +88,22 @@ i presented a poster and wrote a [proceedings paper](https://guarant.cz/icphs202
     <td>
     Variation and Language Processing (VALP) 6<br>
     <i>Universidade de Vigo</i>
+    </td>
+</tr>
+<tr>
+    <td>March 2024</td>
+    <td>
+    Runner-up - Grad Slam, Humanities & Fine Arts Division<br>
+    <span class="subtext">
+    Presentation title: "Perception and Queer Speech: Beyond the 'Gay Accent'"<br>
+    <a href="https://vimeo.com/924279645" target="_blank">
+        [vimeo.com/924279645]
+    </a> (password: GradSlam2024)
+    </span>
+    </td>
+    <td>
+    Graduate Division<br>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -106,7 +124,7 @@ this project is a larger collaboration that has included montreal benesch, kirby
 
 so far, we have:
 
-1. presented talks talk at the new ways of analyzing variation (nwav) conference in which we discuss two trans-affirming methods for operationalizing gender.
+1. presented talks at the new ways of analyzing variation (nwav) conference in which we discuss two trans-affirming methods for operationalizing gender.
 
 2. run a workshop at the linguistic society of america (lsa)'s annual meeting regarding best practices for asking sex/gender information from research participants, [for which we produced materials that are available online](https://bit.ly/LSA2024GenderQuestionMaterials).
 
