@@ -263,16 +263,29 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>October 2024</td>
+    <td>November 2024</td>
     <td>
-    "Questions that people are afraid to ask out loud": Fear vs. Self-Determination in Anglophone and Russophone Pronoun Discourses<br>
+    Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
     <span class="subtext">
-    Cooper Bedin and Marina Zhukova
+    Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown
     </span>
     </td>
     <td>
     "What are your pronouns? And why does it matter?"<br>
     <i>Université Paul-Valéry</i>
+    </td>
+</tr>
+<tr>
+    <td>October 2024</td>
+    <td>
+    "Questions that people are afraid to ask out loud": Fear vs. Self-Determination in Anglophone and Russophone Pronoun Discourses<br>
+    <span class="subtext">
+    Marina Zhukova and Cooper Bedin
+    </span>
+    </td>
+    <td>
+    New Ways of Analyzing Variation (NWAV) 52<br>
+    <i>Florida International University and the University of Miami</i>
     </td>
 </tr>
 <tr>
@@ -335,7 +348,7 @@ layout: default
     </td>
     <td>
     New Ways of Analyzing Variation (NWAV) 51<br>
-    <i>Queens College & CUNY</i>
+    <i>Queens College and CUNY</i>
     </td>
 </tr>
 <tr>
@@ -348,7 +361,7 @@ layout: default
     </td>
     <td>
     New Ways of Analyzing Variation (NWAV) 51<br>
-    <i>Queens College & CUNY</i>
+    <i>Queens College and CUNY</i>
     </td>
 </tr>
 <tr>
@@ -976,7 +989,7 @@ layout: default
     </td></tr>
 </table></div>
 
-## Memberships and affiliations
+## Professional memberships and affiliations
 <div class="cv-table-wrapper"><table>
     <tr><td>American Anthropological Association (AAA)</td></tr>
     <tr><td>
