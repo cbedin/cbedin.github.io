@@ -271,8 +271,8 @@ layout: default
     </span>
     </td>
     <td>
-    "What are your pronouns? And why does it matter?"<br>
-    <i>Université Paul-Valéry</i>
+    New Ways of Analyzing Variation (NWAV) 52<br>
+    <i>Florida International University and the University of Miami</i>
     </td>
 </tr>
 <tr>
@@ -284,8 +284,8 @@ layout: default
     </span>
     </td>
     <td>
-    New Ways of Analyzing Variation (NWAV) 52<br>
-    <i>Florida International University and the University of Miami</i>
+    "What are your pronouns? And why does it matter?"<br>
+    <i>Université Paul-Valéry</i>
     </td>
 </tr>
 <tr>
