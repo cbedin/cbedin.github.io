@@ -481,7 +481,7 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>October 2024</td>
+    <td>2025</td>
     <td>TBA</td>
     <td>
     Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
