@@ -304,14 +304,14 @@ layout: default
     <i>Universidade de Vigo</i>
     </td>
 </tr>
-<!--<tr>
+<tr>
     <td>May 2024</td>
     <td>"In terms of gender, how do you describe yourself?": Counterideology and interaction in trans-centric conversation</td>
     <td>
-    The 27th Center for Language, Interaction and Culture-Graduate Student Association (CLIC-GSA) Conference<br>
+    [Cancelled] The 27th Center for Language, Interaction and Culture-Graduate Student Association (CLIC-GSA) Conference<br>
     <i>UC Los Angeles</i>
     </td>
-</tr>-->
+</tr>
 <tr>
     <td>January 2024</td>
     <td>
