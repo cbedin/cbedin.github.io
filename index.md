@@ -191,7 +191,7 @@ and we have more in the works, so stay tuned!
 
 ## at uc santa barbara
 
-at ucsb i have taught foundations of computational linguistcs as a substitute teaching assistant; and have taught language, gender, and sexuality as a teaching assistant. this upcoming academic year i will be teaching an introductory linguistics course as a teaching assistant, and advanced computational linguistics as a teaching assistant. 
+at ucsb i have held (or am scheduled to hold) teaching assistantship positions for introductory linguistics; language, gender, and sexuality; articulatory phonetics; foundations of computational linguistics; and advanced computational linguistics. 
 
 ## at uc berkeley
 

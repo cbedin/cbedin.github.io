@@ -586,6 +586,14 @@ layout: default
     </td>
 </tr>
 <tr>
+    <td>Winter 2025 [Qtr.]</td>
+    <td>Teaching Assistant</td>
+    <td>
+    Linguistics 145: Articulatory Phonetics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
     <td>Summer 2024</td>
     <td>Teaching Assistant</td>
     <td>
@@ -791,6 +799,23 @@ layout: default
 ## Academic service
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>May 2025</td>
+    <td>Organizer</td>
+    <td>
+    The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>September 2024–Present</td>
+    <td>Coordinator</td>
+    <td>
+    Grad Drag Club<br>
+    <i>Graduate Student Association (GSA)</i><br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>September 2024–Present</td>
     <td>Treasurer</td>
