@@ -275,6 +275,35 @@ layout: default
 </tr>
 </table></div>
 
+## Invited presentations
+
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>2025</td>
+    <td>TBA</td>
+    <td>
+    Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
+    <i>UC Berkeley</i>
+    </td>
+</tr>
+<tr>
+    <td>February 2024</td>
+    <td>Operationalizing gender: Towards participant-driven quantitative methods in linguistics</td>
+    <td>
+    Department of Linguistics Graduate Student Open House Colloquium<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>May 2022</td>
+    <td><i>Commencement speaker</i></td>
+    <td>
+    Department of Linguistics Commencement Ceremony<br>
+    <i>UC Berkeley</i>
+    </td>
+</tr>
+</table></div>
+
 ## Conference presentations
 
 <div class="cv-table-wrapper"><table>
@@ -488,35 +517,6 @@ layout: default
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
-    </td>
-</tr>
-</table></div>
-
-## Invited presentations
-
-<div class="cv-table-wrapper"><table>
-<tr>
-    <td>2025</td>
-    <td>TBA</td>
-    <td>
-    Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
-    <i>UC Berkeley</i>
-    </td>
-</tr>
-<tr>
-    <td>February 2024</td>
-    <td>Operationalizing gender: Towards participant-driven quantitative methods in linguistics</td>
-    <td>
-    Department of Linguistics Graduate Student Open House Colloquium<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>May 2022</td>
-    <td><i>Commencement speaker</i></td>
-    <td>
-    Department of Linguistics Commencement Ceremony<br>
     <i>UC Berkeley</i>
     </td>
 </tr>
@@ -834,9 +834,31 @@ layout: default
 </tr>
 <tr>
     <td>September 2024–Present</td>
+    <td>Linguistics Department Representative</td>
+    <td>UAW Local 4811</td>
+</tr>
+<tr>
+    <td>September 2024–Present</td>
+    <td>Officer</td>
+    <td>
+    Language Interaction and Social Organization Graduate Student Organization (LISO-GSO)<br>
+    <i>Graduate Student Association (GSA)</i><br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>September 2024–Present</td>
     <td>Treasurer</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>November 2024</td>
+    <td>Panelist - "Applying to grad school" information session</td>
+    <td>
+    Department of Linguistics<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
