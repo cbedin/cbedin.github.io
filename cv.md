@@ -198,7 +198,7 @@ layout: default
     </td>
     <td>
     <i>Sex Change & the City</i><br>
-    GirlDad Press<br>
+    Girl Dad Press<br>
     <span class="subtext">Edited by Niko Stratis and Tuck Woodstock</span>
     </td>
 </tr>
