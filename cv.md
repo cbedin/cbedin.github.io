@@ -188,6 +188,22 @@ layout: default
 </tr>
 </table></div>
 
+## Articles and book chapters
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>Forthcoming</td>
+    <td>
+    "Carrie's Fables" or: How I learned to stop misgendering and love trans people<br>
+    <span class="subtext">Cooper Bedin and Montreal Benesch</span>
+    </td>
+    <td>
+    <i>Sex Change & the City</i><br>
+    GirlDad Press<br>
+    <span class="subtext">Edited by Niko Stratis and Tuck Woodstock</span>
+    </td>
+</tr>
+</table></div>
+
 ## Proceedings publications
 <div class="cv-table-wrapper"><table>
 <tr>
