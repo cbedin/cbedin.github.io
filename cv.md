@@ -308,6 +308,19 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>July 2025</td>
+    <td>
+    Expansive, intersectional... and quantitative?? Innovating critical approaches to gendered sociophonetic variation<br>
+    <span class="subtext">
+    Cooper Bedin, Montreal Benesch, Lal Zimman, and Marina Zhukova
+    </span>
+    </td>
+    <td>
+    International Gender and Language Association (IGALA) 13<br>
+    <i>Facultad de Humanidades y Ciencias de la Educación & Universidad de la República</i>
+    </td>
+</tr>
+<tr>
     <td>November 2024</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
