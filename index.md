@@ -16,6 +16,10 @@ these are some things i do research on!
 
 you can read more about my [research](#research) and [teaching](#teaching) below.
 
+[i also do drag](https://www.instagram.com/misgendermissgender/)! not (currently) related to my research.
+
+if you want to connect with me you can always shoot me an email, or i'm also trying out [bluesky](https://bsky.app/profile/linguallyblonde.bsky.social).
+
 thanks for visiting my little page 👾💕
 
 # research
