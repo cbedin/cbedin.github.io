@@ -222,7 +222,7 @@ layout: default
     <td>
     Towards a model of the listener in perception of queer speech<br>
     <span class="subtext">
-    <a href="https://guarant.cz/icphs2023/399.pdf" target="_blank">[guarant.cz/icphs2023/399.pdf]</a>
+    <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/399.pdf" target="_blank">[internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/399.pdf]</a>
     </span>
     </td>
     <td>Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS)</td>

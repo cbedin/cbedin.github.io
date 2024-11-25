@@ -81,7 +81,7 @@ this work has been presented at lavender languages (lavlang), the language inter
 
 for my b.a. honors thesis, i ran an experiment looking at what acoustic properties of a person's voice can contribute to making a person "sound gay." while there has been extensive research in this area already, results across different studies are often inconsistent and difficult to replicate, suggesting that this phenomenon is highly variable and complex. to that end, more recently i've been interested in applying cognitive and computational models to this phenomenon, with the hopes that cognitively-informed models will offer more explanatory power. i'm especially interested in the role that variation in listener perception might play in this phenomenon.
 
-i presented a poster and wrote a [proceedings paper](https://guarant.cz/icphs2023/399.pdf) for the international congress of phonetic sciences (icphs), applying exemplar theory and modeling to this phenomenon. additionally, i have presented another analysis at the variation and language processing (valp) conference where i used heirarchical clustering to look at listener variation.
+i presented a poster and wrote a [proceedings paper](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/399.pdf) for the international congress of phonetic sciences (icphs), applying exemplar theory and modeling to this phenomenon. additionally, i have presented another analysis at the variation and language processing (valp) conference where i used heirarchical clustering to look at listener variation.
 
 i also presented on this work as part of ucsb's grad slam, which is a competition in which graduate students create three-minute public-facing presentations about their research. my talk was the runner-up in the humanities and fine arts division, and is [available to watch online](https://vimeo.com/924279645)! (password: GradSlam2024)
 
@@ -115,7 +115,7 @@ i also presented on this work as part of ucsb's grad slam, which is a competitio
     <td>
     Towards a model of the listener in perception of queer speech<br>
     <span class="subtext">
-    <a href="https://guarant.cz/icphs2023/399.pdf" target="_blank">[guarant.cz/icphs2023/399.pdf]</a>
+    <a href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/399.pdf" target="_blank">[internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/399.pdf]</a>
     </span>
     </td>
     <td>Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS)</td>
