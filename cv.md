@@ -207,6 +207,15 @@ layout: default
 ## Proceedings publications
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Forthcoming</td>
+    <td>
+    Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' Pear Stories<br>
+    <span class="subtext">Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown</span>
+    </td>
+    <td>Penn Working Papers in Linguistics<br>
+    <span class="subtext">Selected papers from NWAV 52</span></td>
+</tr>
+<tr>
     <td>2024</td>
     <td>
     Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies<br>
@@ -279,7 +288,15 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>2025</td>
+    <td>March 2025</td>
+    <td>TBA</td>
+    <td>
+   Language Interaction and Social Organiation (LISO)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>March 2025</td>
     <td>TBA</td>
     <td>
     Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
@@ -311,9 +328,7 @@ layout: default
     <td>July 2025</td>
     <td>
     Expansive, intersectional... and quantitative?? Innovating critical approaches to gendered sociophonetic variation<br>
-    <span class="subtext">
-    Cooper Bedin, Montreal Benesch, Lal Zimman, and Marina Zhukova
-    </span>
+    <span class="subtext">Cooper Bedin, Montreal Benesch, Lal Zimman, and Marina Zhukova</span>
     </td>
     <td>
     International Gender and Language Association (IGALA) 13<br>
@@ -324,9 +339,7 @@ layout: default
     <td>November 2024</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
-    <span class="subtext">
-    Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown
-    </span>
+    <span class="subtext">Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown</span>
     </td>
     <td>
     New Ways of Analyzing Variation (NWAV) 52<br>
@@ -549,7 +562,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2023–Present</td>
+    <td>Fall 2023–Winter 2024</td>
     <td>
         Copy Editing (LaTeX)<br>
         <span class="subtext">
