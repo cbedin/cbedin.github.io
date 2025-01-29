@@ -336,6 +336,17 @@ layout: default
     </td>
 </tr>
 <tr>
+    <td>April 2025</td>
+    <td>
+    "Representing everyone else outside these two boring genders": The role of popular media in trans language activism<br>
+    <span class="subtext">Cooper Bedin and Montreal Benesch</span>
+    </td>
+    <td>
+    LingComm25: Communicating Linguistics to Broader Audiences<br>
+    Online
+    </td>
+</tr>
+<tr>
     <td>November 2024</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
@@ -846,6 +857,15 @@ layout: default
     <td>Organizer</td>
     <td>
     The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>January–March 2025</td>
+    <td>Mentor - Womxn in STEM mentorship program</td>
+    <td>
+    <br>
+    Womxn in Science and Engineering (WiSE)<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
