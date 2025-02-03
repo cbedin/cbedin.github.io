@@ -336,17 +336,6 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>April 2025</td>
-    <td>
-    "Representing everyone else outside these two boring genders": The role of popular media in trans language activism<br>
-    <span class="subtext">Cooper Bedin and Montreal Benesch</span>
-    </td>
-    <td>
-    LingComm25: Communicating Linguistics to Broader Audiences<br>
-    Online
-    </td>
-</tr>
-<tr>
     <td>November 2024</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
@@ -490,6 +479,17 @@ layout: default
 
 ## Poster sessions
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>April 2025</td>
+    <td>
+    "Representing everyone else outside these two boring genders": The role of popular media in trans language activism<br>
+    <span class="subtext">Cooper Bedin and Montreal Benesch</span>
+    </td>
+    <td>
+    LingComm25: Communicating Linguistics to Broader Audiences<br>
+    Online
+    </td>
+</tr>
 <tr>
     <td>August 2023</td>
     <td>Towards a model of the listener in perception of queer speech</td>
@@ -866,6 +866,15 @@ layout: default
     <td>
     <br>
     Womxn in Science and Engineering (WiSE)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>February 2025</td>
+    <td>Judge - Grad Slam</td>
+    <td>
+    <br>
+    Graduate Division<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
