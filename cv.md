@@ -658,6 +658,14 @@ layout: default
     </td>
 </tr>
 <tr>
+    <td>February 2025</td>
+    <td>Reader</td>
+    <td>
+    Linguistics 110: Foundations of Computational Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
     <td>Winter 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
