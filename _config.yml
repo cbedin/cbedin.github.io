@@ -5,3 +5,4 @@ description: M.A. Student - UCSB Department of Linguistics
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0s
