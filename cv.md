@@ -559,10 +559,28 @@ layout: default
 </tr>
 </table></div>
 
+## Research supervision
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>Winter 2025–Present [Qtrs.]</td>
+    <td>
+        <i>Gender Reveal</i> podcast transcription<br>
+        <span class="subtext">
+        PI: Cooper Bedin, M.A.<br>
+        Faculty supervisor: Lal Zimman, Ph.D.
+        </span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+</table></div>
+
 ## Other research experience
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Winter 2023–Present</td>
+    <td>Winter 2023–Present [Qtrs.]</td>
     <td>
         Gender and Race Attribution Project (GxRAP)<br>
         <span class="subtext">PI: Lal Zimman, Ph.D.</span>
@@ -573,7 +591,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2023–Winter 2024</td>
+    <td>Fall 2023–Winter 2024 [Qtrs.]</td>
     <td>
         Copy Editing (LaTeX)<br>
         <span class="subtext">
@@ -587,11 +605,12 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Spring 2021–Spring 2022</td>
+    <td>Spring 2021–Spring 2022 [Sems.]</td>
     <td>
         Gender in Language Project<br>
         <span class="subtext">
-        PIs: Ben Papadopoulos, M.A.; Justin Davidson, Ph.D.<br>
+        PI: Ben Papadopoulos, M.A.<br>
+        Faculty supervisor: Justin Davidson, Ph.D.<br>
         <a href="https://www.genderinlanguage.com" target="_blank">[genderinlanguage.com]</a>
         </span>
     </td>
@@ -601,7 +620,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Summer 2020–Spring 2021</td>
+    <td>Summer 2020–Spring 2021 [Sems.]</td>
     <td>
         Copy Editing (LaTeX)<br>
         <span class="subtext">
@@ -615,7 +634,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Spring 2019</td>
+    <td>Spring 2019 [Sem.]</td>
     <td>
         Electromagnetic Articulography Data Processing<br>
         <span class="subtext">PI: Karee Garvin, M.A.</span>
@@ -774,7 +793,7 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Fall 2024</td>
+    <td>November 2024</td>
     <td>Quantification and Social Justice in Technology</td>
     <td>
     Interdisciplinary 84BY: Trans Linguistics Honors Seminar<br>
@@ -849,35 +868,9 @@ layout: default
 
 # Service, affiliations, and skills
 
-## Academic service
+## Academic, artistic, and community service
 
 <div class="cv-table-wrapper"><table>
-<tr>
-    <td>May 2025</td>
-    <td>Organizer</td>
-    <td>
-    The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>January–March 2025</td>
-    <td>Mentor - Womxn in STEM mentorship program</td>
-    <td>
-    <br>
-    Womxn in Science and Engineering (WiSE)<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>February 2025</td>
-    <td>Judge - Grad Slam</td>
-    <td>
-    <br>
-    Graduate Division<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
 <tr>
     <td>September 2024–Present</td>
     <td>Coordinator</td>
@@ -910,12 +903,51 @@ layout: default
     </td>
 </tr>
 <tr>
+    <td>May 2025</td>
+    <td>Organizer</td>
+    <td>
+    The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>January–March 2025</td>
+    <td>Mentor - Womxn in STEM mentorship program</td>
+    <td>
+    <br>
+    Womxn in Science and Engineering (WiSE)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>February 2025</td>
+    <td>Judge - Grad Slam</td>
+    <td>
+    <br>
+    Graduate Division<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>February 2025</td>
+    <td>Reviewer</td>
+    <td>
+    Workshop on American Indigenous Languages (WAIL) 27<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
     <td>November 2024</td>
     <td>Panelist - "Applying to grad school" information session</td>
     <td>
     Department of Linguistics<br>
     <i>UC Santa Barbara</i>
     </td>
+</tr>
+<tr>
+    <td>August 2024</td>
+    <td>Zwicky Award Committee Member</td>
+    <td>Linguistic Society of America (LSA)</td>
 </tr>
 <tr>
     <td>September 2023–June 2024</td>
@@ -935,25 +967,9 @@ layout: default
 </tr>
 <tr>
     <td>May 2024</td>
-    <td>Performer (Drag Queen Story Hour) - Block Party for Liberation</td>
-    <td>
-    Graduate Student Association (GSA)<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>May 2024</td>
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 26<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>April 2024</td>
-    <td>Performer - Grad Drag Dinner</td>
-    <td>
-    Queer and Trans Graduate Student Association (QTGSU) and Graduate Student Association (GSA)<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -983,14 +999,6 @@ layout: default
 </tr>
 <tr>
     <td>April 2023</td>
-    <td>Performer - Grad Drag Show</td>
-    <td>
-    Queer and Trans Graduate Student Association (QTGSU) and Graduate Student Association (GSA)<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>April 2023</td>
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 25<br>
@@ -998,7 +1006,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2022</td>
+    <td>Fall 2022 [Qtr.]</td>
     <td>Lab Manager</td>
     <td>
     Trans Research in Linguistics Lab (TRILL)<br>
@@ -1014,7 +1022,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Spring 2022</td>
+    <td>Spring 2022 [Sem.]</td>
     <td>President</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
@@ -1022,7 +1030,15 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2019–Spring 2022</td>
+    <td>Fall 2020–Spring 2022 [Sems.]</td>
+    <td>External Affairs Director</td>
+    <td>
+    BareStage Productions<br>
+    <i>UC Berkeley</i>
+    </td>
+</tr>
+<tr>
+    <td>Fall 2019–Spring 2022 [Sems.]</td>
     <td>Officer</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
@@ -1030,7 +1046,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Spring 2022</td>
+    <td>Spring 2022 [Sem.]</td>
     <td>President</td>
     <td>
     Computer Science Mentors (CSM)<br>
@@ -1038,7 +1054,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2021</td>
+    <td>Fall 2021 [Sem.]</td>
     <td>External Vice President</td>
     <td>
     Computer Science Mentors (CSM)<br>
@@ -1062,7 +1078,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Spring 2021</td>
+    <td>Spring 2021 [Sem.]</td>
     <td>Socials Chair</td>
     <td>
     Computer Science Mentors (CSM)<br>
