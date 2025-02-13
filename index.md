@@ -28,11 +28,25 @@ below are little blurbs and citations for my current/ongoing research projects! 
 
 ## _you guys_ and _y'all_
 
-my (in progress) m.a. thesis work looks at attitudes towards the english second-person plural constructions _you guys_ and _y'all_, and how these attitudes are impacted by ideologies about race, place, and gender. i'm especially interested in how metalinguistic discourse and sociopolitical ideologies shape language, and i think _you guys_ and _y'all_ are a great lens into these phenomena because they implicate many politicized issues around language, identity, and power (e.g. gender-inclusive language, lingusitic appropriation, and linguistic stigma).
+my m.a. thesis work looks at attitudes towards the english second-person plural constructions _you guys_ and _y'all_, and how these attitudes are impacted by ideologies about race, place, and gender. i'm especially interested in how metalinguistic discourse and sociopolitical ideologies shape language, and i think _you guys_ and _y'all_ are a great lens into these phenomena because they implicate many politicized issues around language, identity, and power (e.g. gender-inclusive language, lingusitic appropriation, and linguistic stigma).
 
 this work has been presented at lavender languages (lavlang), the language interaction and social organization (liso) conference at ucsb, and the american anthropological association (aaa) annual meeting. i've also written a more informal piece about this work for the linguistic society of america (lsa)'s committee on lgbtq+\[z\] issues (cozil) [2024 pride month blog series](https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40).
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>March 2025</td>
+    <td>
+    "A tale of two pronouns": Race, place, gender, and the indexical tangle of <i>you guys</i> and <i>y'all</i><br>
+    <span class="subtext">
+    Committee chair: Lal Zimman, Ph.D.<br>
+    Committee members: Mary Bucholtz, Ph.D.; Simon Todd, Ph.D.<br>
+    </span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>2024</td>
     <td>

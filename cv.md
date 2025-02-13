@@ -8,11 +8,13 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Fall 2022–Present</td>
-    <td>
-    Ph.D. in Linguistics <i>(in progress)</i><br>
-    M.A. in Linguistics <i>(in progress)</i>
-    </td>
+    <td>Winter 2025–Present</td>
+    <td>Ph.D. in Linguistics <i>(in progress)</i></td>
+    <td>UC Santa Barbara</td>
+</tr>
+<tr>
+    <td>Fall 2022–Winter 2025</td>
+    <td>M.A. in Linguistics</td>
     <td>UC Santa Barbara</td>
 </tr>
 <tr>
@@ -148,11 +150,11 @@ layout: default
 
 # Research, presentations, and publications
 
-## M.A. thesis _(in progress)_
+## M.A. thesis
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Winter 2024–Present</td>
+    <td>March 2025</td>
     <td>
     "A tale of two pronouns": Race, place, gender, and the indexical tangle of <i>you guys</i> and <i>y'all</i><br>
     <span class="subtext">
@@ -170,7 +172,7 @@ layout: default
 ## B.A. honors thesis
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Fall 2021—Spring 2022</td>
+    <td>May 2022</td>
     <td>
     A computational approach to acoustic analysis of queer speech<br>
     <span class="subtext">
