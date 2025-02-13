@@ -8,7 +8,7 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Winter 2025–Present</td>
+    <td>Spring 2025–Present</td>
     <td>Ph.D. in Linguistics <i>(in progress)</i></td>
     <td>UC Santa Barbara</td>
 </tr>
@@ -286,7 +286,7 @@ layout: default
 </tr>
 </table></div>
 
-## Invited presentations
+## Invited presentations (unpaid)
 
 <div class="cv-table-wrapper"><table>
 <tr>
