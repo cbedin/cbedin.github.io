@@ -35,6 +35,14 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>July 2025</td>
+    <td>Linguistic Institute</td>
+    <td>
+    Linguistic Society of America<br>
+    <i>University of Oregon</i>
+    </td>
+</tr>
+<tr>
     <td>June 2024</td>
     <td>Lavender Languages Institute (LLI)</td>
     <td><i>California Institute of Integral Studies (CIIS)</i></td>
@@ -67,6 +75,16 @@ layout: default
 ## Awards and honors
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>February 2025</td>
+    <td>Graduate Collaborative Award<br>
+    <span class="subtext">Marat Zheng, Cooper Bedin, Montreal Benesch, Ryan Ka Yau Lai, Munira Kairat, and Nurgul Isik</span>
+    </td>
+    <td>
+    Interdisciplinary Humanities Center<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>May 2022</td>
     <td>Department Service Award</td>
@@ -650,20 +668,35 @@ layout: default
 
 # Teaching
 
+## Instructor
+
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>Summer 2025</td>
+    <td>Instructor</td>
+    <td>
+    Linguistics 180: Language, Race, and Ethnicity<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>Summer 2022</td>
+    <td>Instructor</td>
+    <td>
+    Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
+    <i>UC Berkeley</i>
+    </td>
+</tr>
+</table></div>
+
+## Teaching assistant
+
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>Spring 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 111: Advanced Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>February 2025</td>
-    <td>Reader</td>
-    <td>
-    Linguistics 110: Foundations of Computational Linguistics<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -697,22 +730,6 @@ layout: default
     <td>
     Linguistics 110: Foundations of Computational Linguistics<br>
     <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>February 2023</td>
-    <td>Reader</td>
-    <td>
-    Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>Summer 2022</td>
-    <td>Instructor</td>
-    <td>
-    Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
     </td>
 </tr>
 <tr>
@@ -760,21 +777,42 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Fall 2020 [Sem.]</td>
+    <td>Summer 2020</td>
     <td>
-    Course Tutor<br>
-    <span class="subtext">Parties</span>
+    Teaching Assistant<br>
+    <span class="subtext">Content</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
     <i>UC Berkeley</i>
     </td>
 </tr>
+</table></div>
+
+## Reader, tutor, or lab assistant
+
+<div class="cv-table-wrapper"><table>
 <tr>
-    <td>Summer 2020</td>
+    <td>February 2025</td>
+    <td>Reader</td>
     <td>
-    Teaching Assistant<br>
-    <span class="subtext">Content</span>
+    Linguistics 110: Foundations of Computational Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>February 2023</td>
+    <td>Reader</td>
+    <td>
+    Linguistics 110: Foundations of Computational Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>Fall 2020 [Sem.]</td>
+    <td>
+    Course Tutor<br>
+    <span class="subtext">Parties</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
