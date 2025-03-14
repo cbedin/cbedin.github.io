@@ -304,12 +304,12 @@ layout: default
 </tr>
 </table></div>
 
-## Invited presentations (unpaid)
+## Invited presentations
 
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>March 2025</td>
-    <td>TBA</td>
+    <td>Power, politics, and <i>nonbinary</i> identity in trans talk</td>
     <td>
    Language Interaction and Social Organiation (LISO)<br>
     <i>UC Santa Barbara</i>
@@ -317,7 +317,7 @@ layout: default
 </tr>
 <tr>
     <td>March 2025</td>
-    <td>TBA</td>
+    <td>Towards participant-driven analyses in sociolinguistic studies of gender and sexuality</td>
     <td>
     Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
     <i>UC Berkeley</i>
@@ -522,6 +522,20 @@ layout: default
 
 ## Workshops
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>May 2025</td>
+    <td>
+    (Trans) Pear Film Live!: Queering narrative analysis and linguistic performance ethnography<br>
+    <span class="subtext">
+    Making/doing session<br>
+    Lal Zimman, Crystal Gong, Montreal Benesch, Kris Ali, Cooper Bedin, Cedar Brown, Nicky Macias, and Dozandri Mendoza
+    </span>
+    </td>
+    <td>
+    2025 Society for Linguistic Anthropology (SLA) Biennial Conference<br>
+    <i>University of Chicago</i>
+    </td>
+</tr>
 <tr>
     <td>January 2024</td>
     <td>
