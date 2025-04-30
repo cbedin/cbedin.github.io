@@ -61,12 +61,12 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>2023–2026</td>
+    <td>2023</td>
     <td>Graduate Research Fellowship</td>
     <td>National Science Foundation</td>
 </tr>
 <tr>
-    <td>2022–2027</td>
+    <td>2022</td>
     <td>Regents Fellowship in Linguistics</td>
     <td>UC Santa Barbara</td>
 </tr>
@@ -210,6 +210,17 @@ layout: default
 
 ## Articles and book chapters
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>In preparation</td>
+    <td>
+    The Teeth<br>
+    <span class="subtext">Cooper Bedin and Marissa Morgan</span>
+    </td>
+    <td>
+    <i>Parsing the Body</i><br>
+    <span class="subtext">Edited by Kendra Calhoun, Kira Hall, Mary Bucholtz, and Montreal Benesch</span>
+    </td>
+</tr>
 <tr>
     <td>Forthcoming</td>
     <td>
@@ -520,8 +531,16 @@ layout: default
 </tr>
 </table></div>
 
-## Workshops
+## Workshops and organized sessions
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>May 2025</td>
+    <td>
+    The gender question: Current best practices for asking about sex/gender in linguistic research<br>
+    <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
+    </td>
+    <td>Linguistic Society of American (LSA) Webinar</td>
+</tr>
 <tr>
     <td>May 2025</td>
     <td>
@@ -539,7 +558,7 @@ layout: default
 <tr>
     <td>January 2024</td>
     <td>
-    Current best practices for asking about sex/gender in linguistic research<br>
+    The gender question: Current best practices for asking about sex/gender in linguistic research<br>
     <span class="subtext">
     Organized session<br>
     Cooper Bedin, Montreal Benesch, Kirby Conrod, Marina Zhukova, and Lal Zimman<br>
@@ -937,7 +956,7 @@ layout: default
     <td>September 2024–Present</td>
     <td>Coordinator</td>
     <td>
-    Grad Drag Club<br>
+    Drag Club<br>
     <i>Graduate Student Association (GSA)</i><br>
     <i>UC Santa Barbara</i>
     </td>
