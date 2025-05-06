@@ -43,6 +43,11 @@ layout: default
     </td>
 </tr>
 <tr>
+    <td>May–June 2025</td>
+    <td>Summer Teaching Institute for Associates (STIA)</td>
+    <td><i>UC Santa Barbara</i></td>
+</tr>
+<tr>
     <td>June 2024</td>
     <td>Lavender Languages Institute (LLI)</td>
     <td><i>California Institute of Integral Studies (CIIS)</i></td>
@@ -178,6 +183,9 @@ layout: default
     <span class="subtext">
     Committee chair: Lal Zimman, Ph.D.<br>
     Committee members: Mary Bucholtz, Ph.D.; Simon Todd, Ph.D.<br>
+    <a href="https://proquest.com/docview/3198955787" target="_blank">
+        [proquest.com/docview/3198955787]
+    </a>
     </span>
     </td>
     <td>

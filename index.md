@@ -28,9 +28,7 @@ below are little blurbs and citations for my current/ongoing research projects! 
 
 ## _you guys_ and _y'all_
 
-my m.a. thesis work looks at attitudes towards the english second-person plural constructions _you guys_ and _y'all_, and how these attitudes are impacted by ideologies about race, place, and gender. i'm especially interested in how metalinguistic discourse and sociopolitical ideologies shape language, and i think _you guys_ and _y'all_ are a great lens into these phenomena because they implicate many politicized issues around language, identity, and power (e.g. gender-inclusive language, lingusitic appropriation, and linguistic stigma).
-
-this work has been presented at lavender languages (lavlang), the language interaction and social organization (liso) conference at ucsb, and the american anthropological association (aaa) annual meeting. i've also written a more informal piece about this work for the linguistic society of america (lsa)'s committee on lgbtq+\[z\] issues (cozil) [2024 pride month blog series](https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40).
+my [m.a. thesis](https://proquest.com/docview/3198955787) work looks at attitudes towards the english second-person plural constructions _you guys_ and _y'all_, and how these attitudes are impacted by ideologies about race, place, and gender. i'm especially interested in how metalinguistic discourse and sociopolitical ideologies shape language, and i think _you guys_ and _y'all_ are a great lens into these phenomena because they implicate many politicized issues around language, identity, and power (e.g. gender-inclusive language, lingusitic appropriation, and linguistic stigma). in addition to the thesis, i've written a more informal piece about this work for the linguistic society of america (lsa)'s committee on lgbtq+\[z\] issues (cozil) [2024 pride month blog series](https://www.lsadc.org/af_membercommittee.asp?committeeid=14&sp=40).
 
 <div class="cv-table-wrapper"><table>
 <tr>
@@ -40,6 +38,9 @@ this work has been presented at lavender languages (lavlang), the language inter
     <span class="subtext">
     Committee chair: Lal Zimman, Ph.D.<br>
     Committee members: Mary Bucholtz, Ph.D.; Simon Todd, Ph.D.<br>
+    <a href="https://proquest.com/docview/3198955787" target="_blank">
+        [proquest.com/docview/3198955787]
+    </a>
     </span>
     </td>
     <td>
@@ -58,35 +59,6 @@ this work has been presented at lavender languages (lavlang), the language inter
     <td>
     Committee on LGBTQ+[Z] Issues in Linguistics (COZIL)<br>
     <i>Linguistic Society of America (LSA)</i>
-    </td>
-</tr>
-<tr>
-    <td>November 2023</td>
-    <td>
-    Beyond third-person: Epistemologies of race, place, gender, and power in <i>you guys</i> and <i>y'all</i><br>
-    <span class="subtext">
-    Panel: Trans linguistic logics: Pronominal and grammatical epistemologies
-    </span>
-    </td>
-    <td>
-    2023 American Anthopological Association/Canadian Anthropology Society (AAA/CASCA) Annual Meeting<br>
-    <i>Metro Toronto Convention Centre</i>
-    </td>
-</tr>
-<tr>
-    <td>April 2023</td>
-    <td>What do <i>you guys</i> and <i>y'all</i> tell us about inclusive language? Race, place, gender, and linguistic ownership in metalinguistic debates</td>
-    <td>
-    The 26th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>March 2023</td>
-    <td>"Battle of the Pronouns" revisited: Metalinguistic discourses on <i>you guys</i> and <i>y'all</i></td>
-    <td>
-    Lavender Languages and Linguistics (LavLang) 29<br>
-    <i>Boise State University</i>
     </td>
 </tr>
 </table></div>
@@ -165,7 +137,7 @@ and we have more in the works, so stay tuned!
 <tr>
     <td>January 2024</td>
     <td>
-    Current best practices for asking about sex/gender in linguistic research<br>
+    The gender question: Current best practices for asking about sex/gender in linguistic research<br>
     <span class="subtext">
     Organized session<br>
     Cooper Bedin, Montreal Benesch, Kirby Conrod, Marina Zhukova, and Lal Zimman<br>
