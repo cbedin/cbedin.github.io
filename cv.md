@@ -552,7 +552,7 @@ layout: default
 <tr>
     <td>May 2025</td>
     <td>
-    Politics, Poetics, and Performance<br>
+    Poetics, Performance, and Representation<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, and Marissa Morgan</span>
     </td>
     <td>
