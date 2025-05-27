@@ -226,7 +226,7 @@ layout: default
     </td>
     <td>
     <i>Parsing the Body</i><br>
-    <span class="subtext">Edited by Kendra Calhoun, Kira Hall, Mary Bucholtz, and Montreal Benesch</span>
+    <span class="subtext">Edited by Montreal Benesch, Mary Bucholtz, Kendra Calhoun, and Kira Hall</span>
     </td>
 </tr>
 <tr>
@@ -544,10 +544,22 @@ layout: default
 <tr>
     <td>May 2025</td>
     <td>
-    The gender question: Current best practices for asking about sex/gender in linguistic research<br>
+    Demographics in Linguistics Research: The Sex/Gender Question<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
     </td>
     <td>Linguistic Society of American (LSA) Webinar</td>
+</tr>
+<tr>
+    <td>May 2025</td>
+    <td>
+    Politics, Poetics, and Performance<br>
+    <span class="subtext">Cooper Bedin, Montreal Benesch, and Marissa Morgan</span>
+    </td>
+    <td>
+    Symposium on Representing Langauge and Language Users<br>
+    <span class="subtext">The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)</span><br>
+    <i>UC Santa Barbara</i>
+    </td>
 </tr>
 <tr>
     <td>May 2025</td>
@@ -996,6 +1008,15 @@ layout: default
     <td>Organizer</td>
     <td>
     The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>May 2025</td>
+    <td>Organizer</td>
+    <td>
+    Symposium on Representing Language and Language Users<br>
+    <span class="subtext">The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)</span><br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
