@@ -556,7 +556,7 @@ layout: default
     <span class="subtext">Cooper Bedin, Montreal Benesch, and Marissa Morgan</span>
     </td>
     <td>
-    Symposium on Representing Langauge and Language Users<br>
+    Symposium on Representing Language and Language Users<br>
     <span class="subtext">The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)</span><br>
     <i>UC Santa Barbara</i>
     </td>
