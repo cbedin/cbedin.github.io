@@ -16,9 +16,9 @@ these are some things i do research on!
 
 you can read more about my [research](#research) and [teaching](#teaching) below.
 
-[i also do drag](https://www.instagram.com/misgendermissgender/)! not (currently) related to my research.
+[i also do drag](https://www.instagram.com/misgendermissgender/)!
 
-if you want to connect with me you can always shoot me an email, or i'm also trying out [bluesky](https://bsky.app/profile/linguallyblonde.bsky.social).
+if you want to connect with me you can always shoot me an email, or bug me on [bluesky](https://bsky.app/profile/linguallyblonde.bsky.social).
 
 thanks for visiting my little page 👾💕
 
@@ -120,9 +120,20 @@ so far, we have:
 
 3. conducted a survey of linguists (n=157 to date) asking about current norms and practices in the field for collecting sex/gender information. this survey was also presented at the lsa's annual meeting, and we [wrote a proceedings paper about the results](https://doi.org/10.3765/plsa.v9i1.5668).
 
-and we have more in the works, so stay tuned!
+we'll be presenting another phase of this project at the international gender and language association (igala) conference this july, and we have more in the works as well. stay tuned!
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>July 2025</td>
+    <td>
+    Expansive, intersectional... and quantitative?? Innovating critical approaches to gendered sociophonetic variation<br>
+    <span class="subtext">Cooper Bedin, Montreal Benesch, Lal Zimman, and Marina Zhukova</span>
+    </td>
+    <td>
+    International Gender and Language Association (IGALA) 13<br>
+    <i>Facultad de Humanidades y Ciencias de la Educación & Universidad de la República</i>
+    </td>
+</tr>
 <tr>
     <td>2024</td>
     <td>
