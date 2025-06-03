@@ -116,7 +116,7 @@ so far, we have:
 
 1. presented talks at the new ways of analyzing variation (nwav) conference in which we discuss two trans-affirming methods for operationalizing gender.
 
-2. run a workshop at the linguistic society of america (lsa)'s annual meeting regarding best practices for asking sex/gender information from research participants, [for which we produced materials that are available online](https://bit.ly/LSA2024GenderQuestionMaterials).
+2. run a workshop at the linguistic society of america (lsa)'s annual meeting and a webinar for the lsa, regarding best practices for asking sex/gender information from research participants, [for which we produced materials that are available online](https://bit.ly/LSA2024GenderQuestionMaterials).
 
 3. conducted a survey of linguists (n=157 to date) asking about current norms and practices in the field for collecting sex/gender information. this survey was also presented at the lsa's annual meeting, and we [wrote a proceedings paper about the results](https://doi.org/10.3765/plsa.v9i1.5668).
 
@@ -133,6 +133,14 @@ we'll be presenting another phase of this project at the international gender an
     International Gender and Language Association (IGALA) 13<br>
     <i>Facultad de Humanidades y Ciencias de la Educación & Universidad de la República</i>
     </td>
+</tr>
+<tr>
+    <td>May 2025</td>
+    <td>
+    Demographics in Linguistics Research: The Sex/Gender Question<br>
+    <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
+    </td>
+    <td>Linguistic Society of American (LSA) Webinar</td>
 </tr>
 <tr>
     <td>2024</td>

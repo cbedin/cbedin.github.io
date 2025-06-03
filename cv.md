@@ -544,7 +544,7 @@ layout: default
 <tr>
     <td>May 2025</td>
     <td>
-    Demographics in Linguistics Research: The Sex/Gender Question<br>
+    Demographics in linguistics research: The sex/gender question<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
     </td>
     <td>Linguistic Society of American (LSA) Webinar</td>
@@ -552,7 +552,7 @@ layout: default
 <tr>
     <td>May 2025</td>
     <td>
-    Poetics, Performance, and Representation<br>
+    Poetics, performance, and representation<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, and Marissa Morgan</span>
     </td>
     <td>
