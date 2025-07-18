@@ -141,6 +141,17 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>July 2025</td>
+    <td>
+    First place - Three-Minute Thesis<br>
+    <span class="subtext">Presentation title: "Perception and Queer Speech: Beyond the 'Gay Accent'"</span>
+    </td>
+    <td>
+    Linguistic Institute - Linguistic Society of America (LSA)<br>
+    <i>University of Oregon</i>
+    </td>
+</tr>
+<tr>
     <td>March 2024</td>
     <td>
     Runner-up - Grad Slam, Humanities & Fine Arts Division<br>
@@ -518,6 +529,14 @@ layout: default
 
 ## Poster sessions
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>July 2025</td>
+    <td>Representing nonbinary identity and politics in quantitative linguistic analysis</td>
+    <td>
+    Linguistic Insitute - Linguistic Society of America (LSA)<br>
+    <i>University of Oregon</i>
+    </td>
+</tr>
 <tr>
     <td>April 2025</td>
     <td>
