@@ -18,7 +18,7 @@ you can read more about my [research](#research) and [teaching](#teaching) below
 
 [i also do drag](https://www.instagram.com/misgendermissgender/)!
 
-if you want to connect with me you can always shoot me an email, or bug me on [bluesky](https://bsky.app/profile/linguallyblonde.bsky.social).
+if you want to connect with me you can always shoot me an email.
 
 thanks for visiting my little page 👾💕
 
@@ -120,7 +120,9 @@ so far, we have:
 
 3. conducted a survey of linguists (n=157 to date) asking about current norms and practices in the field for collecting sex/gender information. this survey was also presented at the lsa's annual meeting, and we [wrote a proceedings paper about the results](https://doi.org/10.3765/plsa.v9i1.5668).
 
-we'll be presenting another phase of this project at the international gender and language association (igala) conference this july, and we have more in the works as well. stay tuned!
+4. conducted a review of recent quantitative sociolinguistic research on sex and gender (274 papers across three high-prestige journals), the results of which we presented at the international gender and language association's bi-annual meeting.
+
+and much more is in the works, so stay tuned!
 
 <div class="cv-table-wrapper"><table>
 <tr>
@@ -200,7 +202,9 @@ we'll be presenting another phase of this project at the international gender an
 
 ## at uc santa barbara
 
-at ucsb i have held (or am scheduled to hold) teaching assistantship positions for introductory linguistics; language, gender, and sexuality; articulatory phonetics; foundations of computational linguistics; and advanced computational linguistics. 
+at ucsb i have held (or am scheduled to hold) teaching assistantship positions for introductory linguistics; language, gender, and sexuality; articulatory phonetics; foundations of computational linguistics; advanced computational linguistics; and introduction to communication sciences and disorders.
+
+in summer 2025 i was instructor of record for linguistics 180: language, race and ethnicity. ling 180 is an upper division writing-intensive class—the course does not have a set syllabus, and instead tends to be designed from the ground-up by each instructor in order to represent the instructor's expertise and the current state of a rapidly-developing field. in addition to organizing the regular lecture content, i also designed and led students through a group collaborative research project which involved (1) collectively formulating a research question about lr&e, (2) contributing to a database of social media data, and (3) using the database to answer or address the question in a final paper.
 
 ## at uc berkeley
 
