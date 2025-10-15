@@ -257,7 +257,7 @@ layout: default
 ## Proceedings publications
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Forthcoming</td>
+    <td>2025</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' Pear Stories<br>
     <span class="subtext">Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown</span>
@@ -338,6 +338,14 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>February 2026</td>
+    <td>TBA</td>
+    <td>
+   Sociolunch<br>
+    <i>Stanford University</i>
+    </td>
+</tr>
+<tr>
     <td>March 2025</td>
     <td>Power, politics, and <i>nonbinary</i> identity in trans talk</td>
     <td>
@@ -374,6 +382,14 @@ layout: default
 ## Conference presentations
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>November 2025</td>
+    <td>"It is not radically inclusive, it's the most male, masculine thing you can do": Representing multiplicious and discordant gender self-identification in a trans corpus</td>
+    <td>
+    New Ways of Analyzing Variation (NWAV) 53<br>
+    <i>University of Michigan, Ann Arbor</i>
+    </td>
+</tr>
 <tr>
     <td>July 2025</td>
     <td>
@@ -654,6 +670,15 @@ layout: default
 ## Research supervision
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Fall 2025–Present [Qtrs.]</td>
+    <td>
+        Matched guise experiment distribution and analysis<br>
+        <span class="subtext">
+        PI: Cooper Bedin, M.A.<br>
+        Faculty supervisor: Lal Zimman, Ph.D.
+        </span>
+    </td>
+<tr>
     <td>Winter 2025–Present [Qtrs.]</td>
     <td>
         <i>Gender Reveal</i> podcast transcription<br>
@@ -745,7 +770,6 @@ layout: default
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>Summer 2025</td>
-    <td>Instructor</td>
     <td>
     Linguistics 180: Language, Race, and Ethnicity<br>
     <i>UC Santa Barbara</i>
@@ -753,7 +777,6 @@ layout: default
 </tr>
 <tr>
     <td>Summer 2022</td>
-    <td>Instructor</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
     <i>UC Berkeley</i>
@@ -761,9 +784,17 @@ layout: default
 </tr>
 </table></div>
 
-## Teaching assistant
+## (Head) teaching assistant
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>Spring 2026 [Qtr.]</td>
+    <td>Teaching Assistant</td>
+    <td>
+    Linguistics 147CS: Introduction to Communication Sciences and Disorders<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>Spring 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
@@ -991,6 +1022,23 @@ layout: default
 ## Academic, artistic, and community service
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>September 2025–Present</td>
+    <td>Treasurer</td>
+    <td>
+    Drag Club at UCSB<br>
+    <i>Associated Students</i><br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>January 2025–Present</td>
+    <td>Linguistics Department Representative</td>
+    <td>
+    Graduate Student Association (GSA)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>September 2024–Present</td>
     <td>Coordinator</td>
