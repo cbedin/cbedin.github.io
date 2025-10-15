@@ -216,7 +216,7 @@ i taught cs 61a 9 semesters, including summers: 1 as an academic intern (unpaid)
 
 i received extremely positive feedback that my contributions to the course made it more accessible for students who otherwise would have had difficulty managing the workload, and i received an outstanting graduate student instructor award in my last year. i still feel that the course had a long way to go at the time i graduated.
 
-## computer science mentors
+### computer science mentors
 
 in addition to my involvement as a teaching assistant, i was also a part of [computer science mentors (csm)](https://csmentors.berkeley.edu/), a student-run teaching organization offering small-group tutoring to students enrolled in lower-divison computer science classes. csm is one of the (if not the) largest such organizations in the united states, involving approximately 300 mentors and 1500 students each semester. csm is able to work at such scale because of its organizational structure, where senior mentors lead "families" of junior mentors to help them develop teaching skills. csm would consistently receive feedback from the department that we made up a crucial part of its teaching infrastucture by supporting students who did not have prior programming experience and training mentors who would then become undergraduate teaching assistants.
 
