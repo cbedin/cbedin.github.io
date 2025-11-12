@@ -16,7 +16,7 @@ these are some things i do research on!
 
 you can read more about my [research](#research) and [teaching](#teaching) below.
 
-[i also do drag](https://www.instagram.com/misgendermissgender/)!
+[i also do drag](https://www.instagram.com/missjaundicej/)!
 
 if you want to connect with me you can always shoot me an email.
 
