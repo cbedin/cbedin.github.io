@@ -678,6 +678,7 @@ layout: default
         Faculty supervisor: Lal Zimman, Ph.D.
         </span>
     </td>
+</tr>
 <tr>
     <td>Winter 2025–Present [Qtrs.]</td>
     <td>
