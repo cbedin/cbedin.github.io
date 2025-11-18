@@ -260,7 +260,10 @@ layout: default
     <td>2025</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' Pear Stories<br>
-    <span class="subtext">Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown</span>
+    <span class="subtext">
+    Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown
+    <a href="https://repository.upenn.edu/handle/20.500.14332/62204" target="_blank">[repository.upenn.edu/handle/20.500.14332/62204]</a>
+    </span>
     </td>
     <td>Penn Working Papers in Linguistics<br>
     <span class="subtext">Selected papers from NWAV 52</span></td>
