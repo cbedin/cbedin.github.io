@@ -16,7 +16,7 @@ these are some things i do research on!
 
 you can read more about my [research](#research) and [teaching](#teaching) below.
 
-[i also do drag](https://www.instagram.com/missjaundicej/)!
+[i also do drag](https://www.instagram.com/missjaundicej/)! i help run a [drag club at ucsb](https://www.instagram.com/ucsbdragclub/) as well as a [local drag show](https://www.instagram.com/barbarapartysb/) in downtown santa barbara that was [featured in the local news](https://www.independent.com/2025/11/11/the-queens-of-barbara/)!
 
 if you want to connect with me you can always shoot me an email.
 
