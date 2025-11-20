@@ -18,9 +18,19 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        <div style="width: 100%; display: inline-block">
         {% if site.logo %}
-        <div class="logo-frame"><img src="{{site.logo | relative_url}}" alt="Logo" /></div>
+        <div class="logo-frame" style="float: left"><img src="{{site.logo | relative_url}}" alt="Logo" /></div>
         {% endif %}
+
+        {% if site.drag_logo %}
+        <div class="logo-frame" style="float: right; margin-top: -100px">
+          <a href="https://www.instagram.com/missjaundicej/" target="_blank">
+            <img src="{{site.drag_logo | relative_url}}" alt="Drag Logo" />
+          </a>
+        </div>
+        {% endif %}
+        </div>
 
         <h2 style="text-align: center;">
           ph.d. student<br>
