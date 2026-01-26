@@ -257,6 +257,12 @@ layout: default
 ## Proceedings publications
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Forthcoming</td>
+    <td>"It is not radically inclusive, it's the most male, masculine thing you can do": Representing multiplicious and discordant gender self-identification in a trans corpus</td>
+    <td>Penn Working Papers in Linguistics<br>
+    <span class="subtext">Selected papers from NWAV 53</span></td>
+</tr>
+<tr>
     <td>2025</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' Pear Stories<br>
@@ -772,6 +778,13 @@ layout: default
 ## Instructor
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>Summer 2026</td>
+    <td>
+    Linguistics 127: Psychology of Language<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>Summer 2025</td>
     <td>
@@ -1292,6 +1305,13 @@ layout: default
             UCSB Department of Linguistics<br>
             PI: Simon Todd, Ph.D.<br>
             <a href="https://ucsb-cpls-lab.github.io/index.html" target="_blank">[ucsb-cpls-lab.github.io]</a>
+        </span>
+    </td></tr>
+    <tr><td>
+        Meetings Under Mary Bucholtz in Linguistics and Education (MUMBLE)<br>
+        <span class="subtext">
+            UCSB Department of Linguistics<br>
+            PI: Mary Bucholtz, Ph.D.
         </span>
     </td></tr>
     <tr><td>
