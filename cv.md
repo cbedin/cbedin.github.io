@@ -230,6 +230,14 @@ layout: default
 ## Articles and book chapters
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Under Review</td>
+    <td>
+    Participant-driven methods for operationalizing gender: Emic, ethical, and empirical approaches<br>
+    <span class="subtext">Lal Zimman, Cooper Bedin, Montreal Benesch, and Marina Zhukova</span>
+    </td>
+    <td></td>
+</tr>
+<tr>
     <td>In preparation</td>
     <td>
     The Teeth<br>
@@ -241,7 +249,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>Forthcoming</td>
+    <td>2025</td>
     <td>
     "Carrie's Fables" or: How I learned to stop misgendering and love trans people<br>
     <span class="subtext">Cooper Bedin and Montreal Benesch</span>
@@ -249,7 +257,10 @@ layout: default
     <td>
     <i>Sex Change & the City</i><br>
     Girl Dad Press<br>
-    <span class="subtext">Edited by Niko Stratis and Tuck Woodstock</span>
+    <span class="subtext">
+        Edited by Niko Stratis and Tuck Woodstock<br>
+        <a href="https://www.girldadpress.com/scatc" target="_blank">[girldadpress.com/scatc]</a>
+    </span>
     </td>
 </tr>
 </table></div>
@@ -961,6 +972,17 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>April 2026</td>
+    <td>Language, Technology, and Power</td>
+    <td>
+    Linguistics 187: Language, Power, and Learning<br>
+    <i>UC Santa Barbara</i><br>
+    <span class="subtext">
+    Instructor: Nicky Macias, M.A.<br>
+    </span>
+    </td>
+</tr>
+<tr>
     <td>November 2024</td>
     <td>Quantification and Social Justice in Technology</td>
     <td>
@@ -1060,7 +1082,7 @@ layout: default
     <td>September 2024–Present</td>
     <td>Coordinator</td>
     <td>
-    Drag Club<br>
+    Drag Club at UCSB<br>
     <i>Graduate Student Association (GSA)</i><br>
     <i>UC Santa Barbara</i>
     </td>
