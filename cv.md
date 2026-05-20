@@ -359,7 +359,7 @@ layout: default
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>February 2026</td>
-    <td>TBA</td>
+    <td>Towards a trans quantitative linguistics: Why new categories aren’t enough</td>
     <td>
    Sociolunch<br>
     <i>Stanford University</i>
@@ -690,6 +690,17 @@ layout: default
 ## Research supervision
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Spring 2026–Present [Qtrs.]</td>
+    <td>
+        Gender and Race Attribution Project (GxRAP) stimulus creation<br>
+        <span class="subtext">PIs: Lal Zimman, Ph.D. and Cooper Bedin, M.A.</span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
     <td>Fall 2025–Present [Qtrs.]</td>
     <td>
         Matched guise experiment distribution and analysis<br>
@@ -697,6 +708,10 @@ layout: default
         PI: Cooper Bedin, M.A.<br>
         Faculty supervisor: Lal Zimman, Ph.D.
         </span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
@@ -1106,6 +1121,15 @@ layout: default
     <td>Treasurer</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>May 2026</td>
+    <td>Panelist: Union and labor rights</td>
+    <td>
+    Linguistics 275: Teaching assistant seminar<br>
+    <span class="subtext">Instructor: Mary Bucholtz, Ph.D.</span><br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
