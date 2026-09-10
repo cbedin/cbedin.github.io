@@ -62,6 +62,19 @@ layout: default
 </tr>
 </table></div>
 
+## Other employment experience
+
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>September 2026–Present</td>
+    <td>Graduate Assistant</td>
+    <td>
+    Resource Center for Sexual and Gender Diversity (RCSGD)<br>
+    <i>University of California, Santa Barbara</i>
+    </td>
+</tr>
+</table></div>
+
 ## Fellowships
 
 <div class="cv-table-wrapper"><table>
@@ -80,6 +93,14 @@ layout: default
 ## Awards and honors
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>August 2026</td>
+    <td>Royalty of Pride</td>
+    <td>
+    Pacific Pride Foundation<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+</tr>
 <tr>
     <td>February 2025</td>
     <td>Graduate Collaborative Award<br>
@@ -207,6 +228,7 @@ layout: default
 </table></div>
 
 ## B.A. honors thesis
+
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>May 2022</td>
@@ -228,9 +250,10 @@ layout: default
 </table></div>
 
 ## Articles and book chapters
+
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Under Review</td>
+    <td>Forthcoming</td>
     <td>
     Participant-driven methods for operationalizing gender: Emic, ethical, and empirical approaches<br>
     <span class="subtext">Lal Zimman, Cooper Bedin, Montreal Benesch, and Marina Zhukova</span>
@@ -266,6 +289,7 @@ layout: default
 </table></div>
 
 ## Proceedings publications
+
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>Forthcoming</td>
@@ -1077,19 +1101,11 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>September 2025–Present</td>
-    <td>Treasurer</td>
+    <td>September 2026–Present</td>
+    <td>President</td>
     <td>
     Drag Club at UCSB<br>
     <i>Associated Students</i><br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
-    <td>January 2025–Present</td>
-    <td>Linguistics Department Representative</td>
-    <td>
-    Graduate Student Association (GSA)<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -1103,12 +1119,29 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>September 2024–Present</td>
+    <td>September 2025–June 2026</td>
+    <td>Treasurer</td>
+    <td>
+    Drag Club at UCSB<br>
+    <i>Associated Students</i><br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>January 2025–June 2026</td>
+    <td>Linguistics Department Representative</td>
+    <td>
+    Graduate Student Association (GSA)<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>September 2024–June 2026</td>
     <td>Linguistics Department Representative</td>
     <td>UAW Local 4811</td>
 </tr>
 <tr>
-    <td>September 2024–Present</td>
+    <td>September 2024–June 2026</td>
     <td>Officer</td>
     <td>
     Language Interaction and Social Organization Graduate Student Organization (LISO-GSO)<br>
@@ -1117,7 +1150,7 @@ layout: default
     </td>
 </tr>
 <tr>
-    <td>September 2024–Present</td>
+    <td>September 2024–June 2026</td>
     <td>Treasurer</td>
     <td>
     Queer and Trans Graduate Student Association (QTGSU)<br>
