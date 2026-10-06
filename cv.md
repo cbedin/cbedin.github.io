@@ -90,7 +90,7 @@ layout: default
 </tr>
 </table></div>
 
-## Awards and honors
+## Awards, honors, and grants
 
 <div class="cv-table-wrapper"><table>
 <tr>
@@ -100,6 +100,11 @@ layout: default
     Pacific Pride Foundation<br>
     <i>Santa Barbara, CA</i>
     </td>
+</tr>
+<tr>
+    <td>May 2026</td>
+    <td>LingComm Grant</td>
+    <td>LingComm: Communicating Linguistics to Broader Audiences</td>
 </tr>
 <tr>
     <td>February 2025</td>
@@ -293,7 +298,7 @@ layout: default
 <div class="cv-table-wrapper"><table>
 <tr>
     <td>Forthcoming</td>
-    <td>"It is not radically inclusive, it's the most male, masculine thing you can do": Representing multiplicious and discordant gender self-identification in a trans corpus</td>
+    <td>Representing gender identification in a trans corpus: Umbrella terms, comprehensive categories, and trans self-definition</td>
     <td>Penn Working Papers in Linguistics<br>
     <span class="subtext">Selected papers from NWAV 53</span></td>
 </tr>
@@ -378,6 +383,67 @@ layout: default
 </tr>
 </table></div>
 
+## Media profiles
+
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>August 2026</td>
+    <td>
+    Meta censors accounts of Santa Barbara drag queens, ICE Observers: BARBARA’s Instagram account deactivated, SBResiste’s ability to live stream revoked after unspecified violations<br>
+    <span class="subtext">
+    By Christina McDermott<br>
+    <a href="https://www.independent.com/2026/08/12/meta-censors-accounts-of-santa-barbara-drag-queens-ice-observers/" target="_blank">[independent.com/2026/08/12/meta-censors-accounts-of-santa-barbara-drag-queens-ice-observers/]</a>
+    </span>
+    </td>
+    <td>
+    Santa Barbara Independent<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+</tr>
+<tr>
+    <td>June 2026</td>
+    <td>
+    Behind the scenes with the queens of BARBARA: Santa Barbara drag queens talk supporting queer arts and hosting their own local show<br>
+    <span class="subtext">
+    By Maya Johnson<br>
+    <a href="https://www.independent.com/multimedia/behind-the-scenes-with-the-queens-of-barbara/" target="_blank">[independent.com/multimedia/behind-the-scenes-with-the-queens-of-barbara/]</a>
+    </span>
+    </td>
+    <td>
+    Santa Barbara Independent<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+</tr>
+<tr>
+    <td>June 2026</td>
+    <td>
+    Celebrating the queens and kings of Santa Barbara: From wildcat to EOS to trivia nights, here’s the tea on the drag scene<br>
+    <span class="subtext">
+    By Christina McDermott<br>
+    <a href="https://www.independent.com/2026/06/03/celebrating-the-queens-and-kings-of-santa-barbara/" target="_blank">[independent.com/2026/06/03/celebrating-the-queens-and-kings-of-santa-barbara/]</a>
+    </span>
+    </td>
+    <td>
+    Santa Barbara Independent<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+</tr>
+<tr>
+    <td>November 2025</td>
+    <td>
+    The queens of BARBARA: Monthly drag show at EOS lounge is a silly, sexy good time<br>
+    <span class="subtext">
+    By Christina McDermott<br>
+    <a href="https://www.independent.com/2025/11/11/the-queens-of-barbara/" target="_blank">[independent.com/2025/11/11/the-queens-of-barbara/]</a>
+    </span>
+    </td>
+    <td>
+    Santa Barbara Independent<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+</tr>
+</table></div>
+
 ## Invited presentations
 
 <div class="cv-table-wrapper"><table>
@@ -427,8 +493,38 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>January 2027</td>
+    <td>Mar-a-Lago Face: Embodied femininity, conservative politics, and the fake face</td>
+    <td>
+    Linguistic Society of America (LSA) 2027<br>
+    <i>San Francisco Marriott Marquis</i>
+    </td>
+</tr>
+<tr>
+    <td>January 2027</td>
+    <td>
+    Perception of ‘you guys’ and ‘y’all’ under sociopolitical priming<br>
+    <span class="subtext">Cooper Bedin, Jinglin Yang, and Xander Love</span>
+    </td>
+    <td>
+    Linguistic Society of America (LSA) 2027<br>
+    <i>San Francisco Marriott Marquis</i>
+    </td>
+</tr>
+<tr>
+    <td>January 2027</td>
+    <td>
+    What makes a gender “boring?”: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i><br>
+    <span class="subtext">Cooper Bedin, Camille Browder, Zoë McAnerney, Jayden Okumura, Joanie Rosas Garcia, Alli Saona, and Zoey Tran</span>
+    </td>
+    <td>
+    Linguistic Society of America (LSA) 2027<br>
+    <i>San Francisco Marriott Marquis</i>
+    </td>
+</tr>
+<tr>
     <td>November 2025</td>
-    <td>"It is not radically inclusive, it's the most male, masculine thing you can do": Representing multiplicious and discordant gender self-identification in a trans corpus</td>
+    <td>Towards a trans quantitative linguistics: Why new categories aren’t enough</td>
     <td>
     New Ways of Analyzing Variation (NWAV) 53<br>
     <i>University of Michigan, Ann Arbor</i>
@@ -590,6 +686,17 @@ layout: default
 ## Poster sessions
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>October 2026</td>
+    <td>
+    What makes a gender “boring”?: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i>
+    <span class="subtext">Cooper Bedin, Camille Browder, Zoë McAnerney, Jayden Okumura, Joanie Rosas Garcia, Alli Saona, and Zoey Tran</span>
+    </td>
+    <td>
+    New Ways of Analyzing Variation (NWAV) 54<br>
+    <i>University of Montreal</i>
+    </td>
+</tr>
+<tr>
     <td>July 2025</td>
     <td>Representing nonbinary identity and politics in quantitative linguistic analysis</td>
     <td>
@@ -621,12 +728,22 @@ layout: default
 ## Workshops and organized sessions
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>January 2027</td>
+    <td>
+    Reality crisis: Linguistic epistemics of the (un)real<br>
+    <span class="subtext">Lal Zimman, Cedar Brown, Montreal Benesch, Cooper Bedin, and Marissa Morgan</span>
+    </td>
+    Linguistic Society of America (LSA) 2027<br>
+    <i>San Francisco Marriott Marquis</i>
+    </td>
+</tr>
+<tr>
     <td>May 2025</td>
     <td>
     Demographics in linguistics research: The sex/gender question<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
     </td>
-    <td>Linguistic Society of American (LSA) Webinar</td>
+    <td>Linguistic Society of America (LSA) Webinar</td>
 </tr>
 <tr>
     <td>May 2025</td>
@@ -854,6 +971,14 @@ layout: default
 ## (Head) teaching assistant
 
 <div class="cv-table-wrapper"><table>
+<tr>
+    <td>Fall 2026 [Qtr.]</td>
+    <td>Teaching Assistant</td>
+    <td>
+    Linguistics 181: Languages of the World<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
 <tr>
     <td>Spring 2026 [Qtr.]</td>
     <td>Teaching Assistant</td>
@@ -1105,25 +1230,21 @@ layout: default
     <td>President</td>
     <td>
     Drag Club at UCSB<br>
-    <i>Associated Students</i><br>
+    <i>Associated Students</i> and <i>Graduate Student Association</i><br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
 <tr>
-    <td>September 2024–Present</td>
-    <td>Coordinator</td>
-    <td>
-    Drag Club at UCSB<br>
-    <i>Graduate Student Association (GSA)</i><br>
-    <i>UC Santa Barbara</i>
-    </td>
+    <td>October 2026–September 2027</td>
+    <td>LingComm Conference Advisory Board</td>
+    <td>LingComm: Communicating Linguistics to Broader Audiences</td>
 </tr>
 <tr>
     <td>September 2025–June 2026</td>
     <td>Treasurer</td>
     <td>
     Drag Club at UCSB<br>
-    <i>Associated Students</i><br>
+    <i>Associated Students</i> and <i>Graduate Student Association</i><br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -1144,7 +1265,7 @@ layout: default
     <td>September 2024–June 2026</td>
     <td>Officer</td>
     <td>
-    Language Interaction and Social Organization Graduate Student Organization (LISO-GSO)<br>
+    Language Interaction and Social Organization Graduate Student Organization<br>
     <i>Graduate Student Association (GSA)</i><br>
     <i>UC Santa Barbara</i>
     </td>
@@ -1153,7 +1274,7 @@ layout: default
     <td>September 2024–June 2026</td>
     <td>Treasurer</td>
     <td>
-    Queer and Trans Graduate Student Association (QTGSU)<br>
+    Queer and Trans Graduate Student Association<br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -1163,6 +1284,15 @@ layout: default
     <td>
     Linguistics 275: Teaching assistant seminar<br>
     <span class="subtext">Instructor: Mary Bucholtz, Ph.D.</span><br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>September 2024–September 2025</td>
+    <td>Coordinator</td>
+    <td>
+    Drag Club at UCSB<br>
+    <i>Graduate Student Association</i><br>
     <i>UC Santa Barbara</i>
     </td>
 </tr>
@@ -1376,7 +1506,7 @@ layout: default
 </tr>
 </table></div>
 
-## Labs
+## Lab memberships
 <div class="cv-table-wrapper"><table>
     <tr><td>
         Computational Psycholinguistics of Listening and Speaking (CPLS) Lab<br>
@@ -1401,17 +1531,6 @@ layout: default
             <a href="https://trillucsb.org/" target="_blank">[trillucsb.org]</a>
         </span>
     </td></tr>
-</table></div>
-
-## Professional memberships and affiliations
-<div class="cv-table-wrapper"><table>
-    <tr><td>American Anthropological Association (AAA)</td></tr>
-    <tr><td>
-        Committee on LGBTQ+ [Z] Issues in Linguistics (COZIL)<br>
-        <span class="subtext">Linguistic Society of America</span>
-    </td></tr>
-    <tr><td>International Phonetic Association (IPA)</td></tr>
-    <tr><td>Linguistic Society of America (LSA)</td></tr>
 </table></div>
 
 ## Languages and skills
