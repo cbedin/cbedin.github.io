@@ -263,6 +263,7 @@ layout: default
     Participant-driven methods for operationalizing gender: Emic, ethical, and empirical approaches<br>
     <span class="subtext">Lal Zimman, Cooper Bedin, Montreal Benesch, and Marina Zhukova</span>
     </td>
+    <td><i>Language in Society</i></td>
     <td></td>
 </tr>
 <tr>
@@ -688,7 +689,7 @@ layout: default
 <tr>
     <td>October 2026</td>
     <td>
-    What makes a gender “boring”?: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i>
+    What makes a gender “boring”?: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i><br>
     <span class="subtext">Cooper Bedin, Camille Browder, Zoë McAnerney, Jayden Okumura, Joanie Rosas Garcia, Alli Saona, and Zoey Tran</span>
     </td>
     <td>
@@ -733,6 +734,7 @@ layout: default
     Reality crisis: Linguistic epistemics of the (un)real<br>
     <span class="subtext">Lal Zimman, Cedar Brown, Montreal Benesch, Cooper Bedin, and Marissa Morgan</span>
     </td>
+    <td>
     Linguistic Society of America (LSA) 2027<br>
     <i>San Francisco Marriott Marquis</i>
     </td>
@@ -831,17 +833,6 @@ layout: default
 ## Research supervision
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Spring 2026–Present [Qtrs.]</td>
-    <td>
-        Gender and Race Attribution Project (GxRAP) stimulus creation<br>
-        <span class="subtext">PIs: Lal Zimman, Ph.D. and Cooper Bedin, M.A.</span>
-    </td>
-    <td>
-    Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
-    </td>
-</tr>
-<tr>
     <td>Fall 2025–Present [Qtrs.]</td>
     <td>
         Matched guise experiment distribution and analysis<br>
@@ -863,6 +854,17 @@ layout: default
         PI: Cooper Bedin, M.A.<br>
         Faculty supervisor: Lal Zimman, Ph.D.
         </span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>UC Santa Barbara</i>
+    </td>
+</tr>
+<tr>
+    <td>Spring 2026 [Qtr.]</td>
+    <td>
+        Gender and Race Attribution Project (GxRAP) stimulus creation<br>
+        <span class="subtext">PIs: Lal Zimman, Ph.D. and Cooper Bedin, M.A.</span>
     </td>
     <td>
     Department of Linguistics<br>
@@ -1517,7 +1519,7 @@ layout: default
         </span>
     </td></tr>
     <tr><td>
-        Meetings Under Mary Bucholtz in Linguistics and Education (MUMBLE)<br>
+        MUMBLE Lab<br>
         <span class="subtext">
             UCSB Department of Linguistics<br>
             PI: Mary Bucholtz, Ph.D.
