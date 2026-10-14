@@ -2,23 +2,41 @@
 layout: default
 ---
 
-# Curriculum Vitae - Cooper Bedin
+# Curriculum Vitae
+
+## Cooper Bedin (they/she)
+
+<div class="cv-table-wrapper"><table>
+<tr>
+    <td>
+    cbedin@ucsb.edu<br>
+    <a href="https://cbedin.gay/" target="_blank">[cbedin.gay]</a><br>
+    (805) 893-7488
+    </td>
+    <td style="text-align: right;">
+    South Hall 3432<br>
+    University of California, Santa Barbara<br>
+    Santa Barbara, CA 93106-3100
+    </td>
+</tr>
+</table></div>
+
+# Education and employment
 
 ## Education
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Spring 2025–Present</td>
     <td>Ph.D. in Linguistics <i>(in progress)</i></td>
-    <td>UC Santa Barbara</td>
+    <td>University of California, Santa Barbara</td>
+    <td>Spring 2025–Present</td>
 </tr>
 <tr>
-    <td>Fall 2022–Winter 2025</td>
     <td>M.A. in Linguistics</td>
-    <td>UC Santa Barbara</td>
+    <td>University of California, Santa Barbara</td>
+    <td>Fall 2022–Winter 2025</td>
 </tr>
 <tr>
-    <td>Fall 2018–Summer 2022</td>
     <td>
     B.A. in Linguistics<br>
     B.A. in Computer Science<br>
@@ -27,7 +45,8 @@ layout: default
     Phi Beta Kappa
     </span>
     </td>
-    <td>UC Berkeley</td>
+    <td>University of California, Berkeley</td>
+    <td>Fall 2018–Summer 2022</td>
 </tr>
 </table></div>
 
@@ -35,30 +54,30 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>July 2025</td>
     <td>Linguistic Institute</td>
     <td>
     Linguistic Society of America<br>
     <i>University of Oregon</i>
     </td>
+    <td>July 2025</td>
 </tr>
 <tr>
-    <td>May–June 2025</td>
     <td>Summer Teaching Institute for Associates (STIA)</td>
-    <td><i>UC Santa Barbara</i></td>
+    <td><i>University of California, Santa Barbara</i></td>
+    <td>May–June 2025</td>
 </tr>
 <tr>
-    <td>June 2024</td>
     <td>Lavender Languages Institute (LLI)</td>
     <td><i>California Institute of Integral Studies (CIIS)</i></td>
+    <td>June 2024</td>
 </tr>
 <tr>
-    <td>June 2023–July 2023</td>
     <td>Linguistic Institute</td>
     <td>
     Linguistic Society of America<br>
     <i>University of Massachusetts, Amherst</i>
     </td>
+    <td>June 2023–July 2023</td>
 </tr>
 </table></div>
 
@@ -66,27 +85,29 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>September 2026–Present</td>
     <td>Graduate Assistant</td>
     <td>
     Resource Center for Sexual and Gender Diversity (RCSGD)<br>
     <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2026–Present</td>
 </tr>
 </table></div>
+
+# Fellowships and awards
 
 ## Fellowships
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>2023</td>
     <td>Graduate Research Fellowship</td>
     <td>National Science Foundation</td>
+    <td>2023</td>
 </tr>
 <tr>
-    <td>2022</td>
     <td>Regents Fellowship in Linguistics</td>
-    <td>UC Santa Barbara</td>
+    <td>University of California, Santa Barbara</td>
+    <td>2022</td>
 </tr>
 </table></div>
 
@@ -94,72 +115,72 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>August 2026</td>
     <td>Royalty of Pride</td>
     <td>
     Pacific Pride Foundation<br>
     <i>Santa Barbara, CA</i>
     </td>
+    <td>August 2026</td>
 </tr>
 <tr>
-    <td>May 2026</td>
     <td>LingComm Grant</td>
     <td>LingComm: Communicating Linguistics to Broader Audiences</td>
+    <td>May 2026</td>
 </tr>
 <tr>
-    <td>February 2025</td>
     <td>Graduate Collaborative Award<br>
     <span class="subtext">Marat Zheng, Cooper Bedin, Montreal Benesch, Ryan Ka Yau Lai, Munira Kairat, and Nurgul Isik</span>
     </td>
     <td>
     Interdisciplinary Humanities Center<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>February 2025</td>
 </tr>
 <tr>
-    <td>May 2022</td>
     <td>Department Service Award</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 <tr>
-    <td>May 2022</td>
     <td>Outstanding GSI Award</td>
     <td>
     Department of Electrical Engineering and Computer Science<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 <tr>
-    <td>May 2022</td>
     <td>Linguistics Honors Program</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 <tr>
+    <td>Phi Beta Kappa</td>
+    <td>Phi Beta Kappa</td>
     <td>May 2022</td>
-    <td>Phi Beta Kappa</td>
-    <td>Phi Beta Kappa</td>
 </tr>
 <tr>
-    <td>May 2022</td>
     <td>Linguistics Enrichment Experience Program (LEEP)</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 <tr>
-    <td>Fall 2021</td>
     <td>Dean's Honors List: High Distinction in General Scholarship</td>
     <td>
     College of Letters and Sciences<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2021</td>
 </tr>
 </table></div>
 
@@ -167,7 +188,6 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>July 2025</td>
     <td>
     First place - Three-Minute Thesis<br>
     <span class="subtext">Presentation title: "Perception and Queer Speech: Beyond the 'Gay Accent'"</span>
@@ -176,9 +196,9 @@ layout: default
     Linguistic Institute - Linguistic Society of America (LSA)<br>
     <i>University of Oregon</i>
     </td>
+    <td>July 2025</td>
 </tr>
 <tr>
-    <td>March 2024</td>
     <td>
     Runner-up - Grad Slam, Humanities & Fine Arts Division<br>
     <span class="subtext">
@@ -190,11 +210,11 @@ layout: default
     </td>
     <td>
     Graduate Division<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>March 2024</td>
 </tr>
 <tr>
-    <td>January 2023</td>
     <td>
     Second place - QWER Hacks, Track 2: Housing Access<br>
     <span class="subtext">
@@ -203,8 +223,9 @@ layout: default
     </td>
     <td>
     Major League Hacking (MLH)<br>
-    <i>UC Los Angeles</i>
+    <i>University of California, Los Angeles</i>
     </td>
+    <td>January 2023</td>
 </tr>
 </table></div>
 
@@ -214,7 +235,6 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>March 2025</td>
     <td>
     "A tale of two pronouns": Race, place, gender, and the indexical tangle of <i>you guys</i> and <i>y'all</i><br>
     <span class="subtext">
@@ -227,8 +247,9 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>March 2025</td>
 </tr>
 </table></div>
 
@@ -236,7 +257,6 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>May 2022</td>
     <td>
     A computational approach to acoustic analysis of queer speech<br>
     <span class="subtext">
@@ -249,8 +269,9 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 </table></div>
 
@@ -258,16 +279,16 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Forthcoming</td>
-    <td>
-    Participant-driven methods for operationalizing gender: Emic, ethical, and empirical approaches<br>
-    <span class="subtext">Lal Zimman, Cooper Bedin, Montreal Benesch, and Marina Zhukova</span>
-    </td>
-    <td><i>Language in Society</i></td>
+    <td>"A tale of two pronouns": Race, place, gender, and the indexical tangle of <i>you guys</i> and <i>y'all</i></td>
     <td></td>
+    <td>In preparation</td>
 </tr>
 <tr>
+    <td>Towards a trans quantiative linguistics: Umbrella terms, comprehensive categories, and trans self-definition</td>
+    <td></td>
     <td>In preparation</td>
+</tr>
+<tr>
     <td>
     The Teeth<br>
     <span class="subtext">Cooper Bedin and Marissa Morgan</span>
@@ -276,9 +297,17 @@ layout: default
     <i>Parsing the Body</i><br>
     <span class="subtext">Edited by Montreal Benesch, Mary Bucholtz, Kendra Calhoun, and Kira Hall</span>
     </td>
+    <td>Under review</td>
 </tr>
 <tr>
-    <td>2025</td>
+    <td>
+    Participant-driven methods for operationalizing gender: Emic, ethical, and empirical approaches<br>
+    <span class="subtext">Lal Zimman, Cooper Bedin, Montreal Benesch, and Marina Zhukova</span>
+    </td>
+    <td><i>Language in Society</i></td>
+    <td>Forthcoming</td>
+</tr>
+<tr>
     <td>
     "Carrie's Fables" or: How I learned to stop misgendering and love trans people<br>
     <span class="subtext">Cooper Bedin and Montreal Benesch</span>
@@ -291,6 +320,7 @@ layout: default
         <a href="https://www.girldadpress.com/scatc" target="_blank">[girldadpress.com/scatc]</a>
     </span>
     </td>
+    <td>2025</td>
 </tr>
 </table></div>
 
@@ -298,25 +328,24 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Forthcoming</td>
     <td>Representing gender identification in a trans corpus: Umbrella terms, comprehensive categories, and trans self-definition</td>
     <td>Penn Working Papers in Linguistics<br>
     <span class="subtext">Selected papers from NWAV 53</span></td>
+    <td>Forthcoming</td>
 </tr>
 <tr>
-    <td>2025</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' Pear Stories<br>
     <span class="subtext">
-    Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown
+    Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown<br>
     <a href="https://repository.upenn.edu/handle/20.500.14332/62204" target="_blank">[repository.upenn.edu/handle/20.500.14332/62204]</a>
     </span>
     </td>
     <td>Penn Working Papers in Linguistics<br>
     <span class="subtext">Selected papers from NWAV 52</span></td>
+    <td>2025</td>
 </tr>
 <tr>
-    <td>2024</td>
     <td>
     Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies<br>
     <span class="subtext">
@@ -325,9 +354,9 @@ layout: default
     </span>
     </td>
     <td>Proceedings of the Linguistic Society of America (PLSA)</td>
+    <td>2024</td>
 </tr>
 <tr>
-    <td>2023</td>
     <td>
     Towards a model of the listener in perception of queer speech<br>
     <span class="subtext">
@@ -335,6 +364,7 @@ layout: default
     </span>
     </td>
     <td>Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS)</td>
+    <td>2023</td>
 </tr>
 </table></div>
 
@@ -342,7 +372,6 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>2024</td>
     <td>
     <i>You guys</i>, <i>y'all</i>, and queer and trans language<br>
     <span class="subtext">
@@ -353,9 +382,9 @@ layout: default
     Committee on LGBTQ+[Z] Issues in Linguistics (COZIL)<br>
     <i>Linguistic Society of America (LSA)</i>
     </td>
+    <td>2024</td>
 </tr>
 <tr>
-    <td>2022</td>
     <td>
     Gendered lexicon of Mandarin Chinese<br>
     <span class="subtext">
@@ -367,9 +396,9 @@ layout: default
     Gender in Language Project<br>
     <i>Berkeley, CA</i>
     </td>
+    <td>2022</td>
 </tr>
 <tr>
-    <td>2022</td>
     <td>
     Inclusive partial grammar of English<br>
     <span class="subtext">
@@ -381,6 +410,7 @@ layout: default
     Gender in Language Project<br>
     <i>Berkeley, CA</i>
     </td>
+    <td>2022</td>
 </tr>
 </table></div>
 
@@ -388,7 +418,6 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>August 2026</td>
     <td>
     Meta censors accounts of Santa Barbara drag queens, ICE Observers: BARBARA’s Instagram account deactivated, SBResiste’s ability to live stream revoked after unspecified violations<br>
     <span class="subtext">
@@ -400,9 +429,9 @@ layout: default
     Santa Barbara Independent<br>
     <i>Santa Barbara, CA</i>
     </td>
+    <td>August 2026</td>
 </tr>
 <tr>
-    <td>June 2026</td>
     <td>
     Behind the scenes with the queens of BARBARA: Santa Barbara drag queens talk supporting queer arts and hosting their own local show<br>
     <span class="subtext">
@@ -414,9 +443,9 @@ layout: default
     Santa Barbara Independent<br>
     <i>Santa Barbara, CA</i>
     </td>
+    <td>June 2026</td>
 </tr>
 <tr>
-    <td>June 2026</td>
     <td>
     Celebrating the queens and kings of Santa Barbara: From wildcat to EOS to trivia nights, here’s the tea on the drag scene<br>
     <span class="subtext">
@@ -428,9 +457,9 @@ layout: default
     Santa Barbara Independent<br>
     <i>Santa Barbara, CA</i>
     </td>
+    <td>June 2026</td>
 </tr>
 <tr>
-    <td>November 2025</td>
     <td>
     The queens of BARBARA: Monthly drag show at EOS lounge is a silly, sexy good time<br>
     <span class="subtext">
@@ -442,6 +471,21 @@ layout: default
     Santa Barbara Independent<br>
     <i>Santa Barbara, CA</i>
     </td>
+    <td>November 2025</td>
+</tr>
+<tr>
+    <td>
+    UCSB Drag Club brings community, glamor to campus<br>
+    <span class="subtext">
+    Michelle Cisneros<br>
+    <a href="https://dailynexus.com/2025-03-07/ucsb-drag-club-brings-community-glamor-to-campus/" target="_blank">[dailynexus.com/2025-03-07/ucsb-drag-club-brings-community-glamor-to-campus/]</a>
+    </span>
+    </td>
+    <td>
+    Daily Nexus<br>
+    <i>Santa Barbara, CA</i>
+    </td>
+    <td>March 2025</td>
 </tr>
 </table></div>
 
@@ -449,44 +493,44 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>February 2026</td>
     <td>Towards a trans quantitative linguistics: Why new categories aren’t enough</td>
     <td>
    Sociolunch<br>
     <i>Stanford University</i>
     </td>
+    <td>February 2026</td>
 </tr>
 <tr>
-    <td>March 2025</td>
     <td>Power, politics, and <i>nonbinary</i> identity in trans talk</td>
     <td>
    Language Interaction and Social Organiation (LISO)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>March 2025</td>
 </tr>
 <tr>
-    <td>March 2025</td>
     <td>Towards participant-driven analyses in sociolinguistic studies of gender and sexuality</td>
     <td>
     Phonetics, Phonology and Psycholinguistics Forum (Phorum)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>March 2025</td>
 </tr>
 <tr>
-    <td>February 2024</td>
     <td>Operationalizing gender: Towards participant-driven quantitative methods in linguistics</td>
     <td>
     Department of Linguistics Graduate Student Open House Colloquium<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>February 2024</td>
 </tr>
 <tr>
-    <td>May 2022</td>
     <td><i>Commencement speaker</i></td>
     <td>
     Department of Linguistics Commencement Ceremony<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>May 2022</td>
 </tr>
 </table></div>
 
@@ -494,15 +538,14 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>January 2027</td>
     <td>Mar-a-Lago Face: Embodied femininity, conservative politics, and the fake face</td>
     <td>
     Linguistic Society of America (LSA) 2027<br>
     <i>San Francisco Marriott Marquis</i>
     </td>
+    <td>January 2027</td>
 </tr>
 <tr>
-    <td>January 2027</td>
     <td>
     Perception of ‘you guys’ and ‘y’all’ under sociopolitical priming<br>
     <span class="subtext">Cooper Bedin, Jinglin Yang, and Xander Love</span>
@@ -511,9 +554,9 @@ layout: default
     Linguistic Society of America (LSA) 2027<br>
     <i>San Francisco Marriott Marquis</i>
     </td>
+    <td>January 2027</td>
 </tr>
 <tr>
-    <td>January 2027</td>
     <td>
     What makes a gender “boring?”: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i><br>
     <span class="subtext">Cooper Bedin, Camille Browder, Zoë McAnerney, Jayden Okumura, Joanie Rosas Garcia, Alli Saona, and Zoey Tran</span>
@@ -522,17 +565,17 @@ layout: default
     Linguistic Society of America (LSA) 2027<br>
     <i>San Francisco Marriott Marquis</i>
     </td>
+    <td>January 2027</td>
 </tr>
 <tr>
-    <td>November 2025</td>
     <td>Towards a trans quantitative linguistics: Why new categories aren’t enough</td>
     <td>
     New Ways of Analyzing Variation (NWAV) 53<br>
     <i>University of Michigan, Ann Arbor</i>
     </td>
+    <td>November 2025</td>
 </tr>
 <tr>
-    <td>July 2025</td>
     <td>
     Expansive, intersectional... and quantitative?? Innovating critical approaches to gendered sociophonetic variation<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, Lal Zimman, and Marina Zhukova</span>
@@ -541,9 +584,9 @@ layout: default
     International Gender and Language Association (IGALA) 13<br>
     <i>Facultad de Humanidades y Ciencias de la Educación & Universidad de la República</i>
     </td>
+    <td>July 2025</td>
 </tr>
 <tr>
-    <td>November 2024</td>
     <td>
     Telling a (racio)gender: Morphosyntactic variation and identity attribution in transgender English/Spanish speakers' 'Pear Stories'<br>
     <span class="subtext">Dozandri Mendoza, Lal Zimman, Cooper Bedin, Nicky Macias, Kris Ali, and Cedar Brown</span>
@@ -552,9 +595,9 @@ layout: default
     New Ways of Analyzing Variation (NWAV) 52<br>
     <i>Florida International University and the University of Miami</i>
     </td>
+    <td>November 2024</td>
 </tr>
 <tr>
-    <td>October 2024</td>
     <td>
     "Questions that people are afraid to ask out loud": Fear vs. Self-Determination in Anglophone and Russophone Pronoun Discourses<br>
     <span class="subtext">
@@ -565,33 +608,33 @@ layout: default
     "What are your pronouns? And why does it matter?"<br>
     <i>Université Paul-Valéry</i>
     </td>
+    <td>October 2024</td>
 </tr>
 <tr>
-    <td>August 2024</td>
     <td>"On forms I always click non-binary": Competing ideologies of (il)legibility in 'non-binary' self-identification</td>
     <td>
     Lavender Languages and Linguistics (LavLang) 30<br>
     <i>University of Brighton</i>
     </td>
+    <td>August 2024</td>
 </tr>
 <tr>
-    <td>June 2024</td>
     <td>Variation and perception of queer speech: A hierarchical clustering approach</td>
     <td>
     Variation and Language Processing (VALP) 6<br>
     <i>Universidade de Vigo</i>
     </td>
+    <td>June 2024</td>
 </tr>
 <tr>
-    <td>May 2024</td>
     <td>"In terms of gender, how do you describe yourself?": Counterideology and interaction in trans-centric conversation</td>
     <td>
     [Cancelled] The 27th Center for Language, Interaction and Culture-Graduate Student Association (CLIC-GSA) Conference<br>
-    <i>UC Los Angeles</i>
+    <i>University of California, Los Angeles</i>
     </td>
+    <td>May 2024</td>
 </tr>
 <tr>
-    <td>January 2024</td>
     <td>
     Current norms and best practices for collecting and representing sex/gender in linguistics: Towards ethical and inclusive methodologies<br>
     <span class="subtext">
@@ -602,9 +645,9 @@ layout: default
     2024 Linguistic Society of American (LSA) Annual Meeting<br>
     <i>Sheraton New York Times Square</i>
     </td>
+    <td>January 2024</td>
 </tr>
 <tr>
-    <td>November 2023</td>
     <td>
     Beyond third-person: Epistemologies of race, place, gender, and power in <i>you guys</i> and <i>y'all</i><br>
     <span class="subtext">
@@ -615,9 +658,9 @@ layout: default
     2023 American Anthopological Association/Canadian Anthropology Society (AAA/CASCA) Annual Meeting<br>
     <i>Metro Toronto Convention Centre</i>
     </td>
+    <td>November 2023</td>
 </tr>
 <tr>
-    <td>October 2023</td>
     <td>
     Operationalizing gender: Implications of participant-driven measurements<br>
     <span class="subtext">
@@ -628,9 +671,9 @@ layout: default
     New Ways of Analyzing Variation (NWAV) 51<br>
     <i>Queens College and CUNY</i>
     </td>
+    <td>October 2023</td>
 </tr>
 <tr>
-    <td>October 2023</td>
     <td>
     Operationalizing gender: Methods for statistical modeling of open-response demographic data<br>
     <span class="subtext">
@@ -641,25 +684,25 @@ layout: default
     New Ways of Analyzing Variation (NWAV) 51<br>
     <i>Queens College and CUNY</i>
     </td>
+    <td>October 2023</td>
 </tr>
 <tr>
-    <td>April 2023</td>
     <td>What do <i>you guys</i> and <i>y'all</i> tell us about inclusive language? Race, place, gender, and linguistic ownership in metalinguistic debates</td>
     <td>
     The 26th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>April 2023</td>
 </tr>
 <tr>
-    <td>March 2023</td>
     <td>"Battle of the Pronouns" revisited: Metalinguistic discourses on <i>you guys</i> and <i>y'all</i></td>
     <td>
     Lavender Languages and Linguistics (LavLang) 29<br>
     <i>Boise State University</i>
     </td>
+    <td>March 2023</td>
 </tr>
 <tr>
-    <td>June 2022</td>
     <td>
     Gender in "genderless" languages<br>
     <span class="subtext">
@@ -671,23 +714,23 @@ layout: default
     Lavender Languages and Linguistics (LavLang) 28<br>
     <i>University of Catania</i>
     </td>
+    <td>June 2022</td>
 </tr>
 <tr>
-    <td>April 2022</td>
     <td>
     (A computational approach to) acoustic analaysis of queer speech<br>
     </td>
     <td>
     The Sixth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>April 2022</td>
 </tr>
 </table></div>
 
-## Poster sessions
+## Posters
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>October 2026</td>
     <td>
     What makes a gender “boring”?: Interactional organization of gender self-identification on the podcast <i>Gender Reveal</i><br>
     <span class="subtext">Cooper Bedin, Camille Browder, Zoë McAnerney, Jayden Okumura, Joanie Rosas Garcia, Alli Saona, and Zoey Tran</span>
@@ -696,17 +739,17 @@ layout: default
     New Ways of Analyzing Variation (NWAV) 54<br>
     <i>University of Montreal</i>
     </td>
+    <td>October 2026</td>
 </tr>
 <tr>
-    <td>July 2025</td>
     <td>Representing nonbinary identity and politics in quantitative linguistic analysis</td>
     <td>
     Linguistic Insitute - Linguistic Society of America (LSA)<br>
     <i>University of Oregon</i>
     </td>
+    <td>July 2025</td>
 </tr>
 <tr>
-    <td>April 2025</td>
     <td>
     "Representing everyone else outside these two boring genders": The role of popular media in trans language activism<br>
     <span class="subtext">Cooper Bedin and Montreal Benesch</span>
@@ -715,21 +758,21 @@ layout: default
     LingComm25: Communicating Linguistics to Broader Audiences<br>
     Online
     </td>
+    <td>April 2025</td>
 </tr>
 <tr>
-    <td>August 2023</td>
     <td>Towards a model of the listener in perception of queer speech</td>
     <td>
     20th International Congress of Phonetic Sciences (ICPhS)<br>
     <i>Prague Congress Center</i>
     </td>
+    <td>August 2023</td>
 </tr>
 </table></div>
 
 ## Workshops and organized sessions
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>January 2027</td>
     <td>
     Reality crisis: Linguistic epistemics of the (un)real<br>
     <span class="subtext">Lal Zimman, Cedar Brown, Montreal Benesch, Cooper Bedin, and Marissa Morgan</span>
@@ -738,17 +781,17 @@ layout: default
     Linguistic Society of America (LSA) 2027<br>
     <i>San Francisco Marriott Marquis</i>
     </td>
+    <td>January 2027</td>
 </tr>
 <tr>
-    <td>May 2025</td>
     <td>
     Demographics in linguistics research: The sex/gender question<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
     </td>
     <td>Linguistic Society of America (LSA) Webinar</td>
+    <td>May 2025</td>
 </tr>
 <tr>
-    <td>May 2025</td>
     <td>
     Poetics, performance, and representation<br>
     <span class="subtext">Cooper Bedin, Montreal Benesch, and Marissa Morgan</span>
@@ -756,11 +799,11 @@ layout: default
     <td>
     Symposium on Representing Language and Language Users<br>
     <span class="subtext">The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)</span><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2025</td>
 </tr>
 <tr>
-    <td>May 2025</td>
     <td>
     (Trans) Pear Film Live!: Queering narrative analysis and linguistic performance ethnography<br>
     <span class="subtext">
@@ -772,9 +815,9 @@ layout: default
     2025 Society for Linguistic Anthropology (SLA) Biennial Conference<br>
     <i>University of Chicago</i>
     </td>
+    <td>May 2025</td>
 </tr>
 <tr>
-    <td>January 2024</td>
     <td>
     The gender question: Current best practices for asking about sex/gender in linguistic research<br>
     <span class="subtext">
@@ -787,53 +830,64 @@ layout: default
     2024 Linguistic Society of American (LSA) Annual Meeting<br>
     <i>Sheraton New York Times Square</i>
     </td>
+    <td>January 2024</td>
 </tr>
 <tr>
-    <td>April 2021</td>
     <td>Gender-Inclusive Language for Teaching</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>April 2021</td>
 </tr>
 <tr>
+    <td>LaTeX for Linguistics</td>
+    <td>
+    Society of Linguistics Undergraduate Students (SLUgS)<br>
+    <i>University of California, Berkeley</i>
+    </td>
     <td>March 2021</td>
+</tr>
+<tr>
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
-</tr>
-<tr>
     <td>November 2020</td>
+</tr>
+<tr>
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
-</tr>
-<tr>
     <td>March 2020</td>
-    <td>LaTeX for Linguistics</td>
-    <td>
-    Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
-    </td>
 </tr>
 <tr>
-    <td>November 2019</td>
     <td>LaTeX for Linguistics</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>November 2019</td>
 </tr>
 </table></div>
 
 ## Research supervision
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Fall 2025–Present [Qtrs.]</td>
+    <td>
+        Gender and Race Attribution Project (GxRAP) stimulus creation<br>
+        <span class="subtext">PIs: Lal Zimman, Ph.D. and Cooper Bedin, M.A.</span>
+    </td>
+    <td>
+    Department of Linguistics<br>
+    <i>University of California, Santa Barbara</i>
+    </td>
+    <td>Spring 2026–Present [Qtrs.]</td>
+</tr>
+<tr>
     <td>
         Matched guise experiment distribution and analysis<br>
         <span class="subtext">
@@ -843,11 +897,11 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Fall 2025–Present [Qtrs.]</td>
 </tr>
 <tr>
-    <td>Winter 2025–Present [Qtrs.]</td>
     <td>
         <i>Gender Reveal</i> podcast transcription<br>
         <span class="subtext">
@@ -857,37 +911,26 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
-</tr>
-<tr>
-    <td>Spring 2026 [Qtr.]</td>
-    <td>
-        Gender and Race Attribution Project (GxRAP) stimulus creation<br>
-        <span class="subtext">PIs: Lal Zimman, Ph.D. and Cooper Bedin, M.A.</span>
-    </td>
-    <td>
-    Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
-    </td>
+    <td>Winter 2025–Present [Qtrs.]</td>
 </tr>
 </table></div>
 
 ## Other research experience
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Winter 2023–Present [Qtrs.]</td>
     <td>
         Gender and Race Attribution Project (GxRAP)<br>
         <span class="subtext">PI: Lal Zimman, Ph.D.</span>
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Winter 2023–Present [Qtrs.]</td>
 </tr>
 <tr>
-    <td>Fall 2023–Winter 2024 [Qtrs.]</td>
     <td>
         Copy Editing (LaTeX)<br>
         <span class="subtext">
@@ -897,11 +940,11 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Fall 2023–Winter 2024 [Qtrs.]</td>
 </tr>
 <tr>
-    <td>Spring 2021–Spring 2022 [Sems.]</td>
     <td>
         Gender in Language Project<br>
         <span class="subtext">
@@ -912,11 +955,11 @@ layout: default
     </td>
     <td>
     Linguistics Research Apprenticeship Program (LRAP)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2021–Spring 2022 [Sems.]</td>
 </tr>
 <tr>
-    <td>Summer 2020–Spring 2021 [Sems.]</td>
     <td>
         Copy Editing (LaTeX)<br>
         <span class="subtext">
@@ -926,19 +969,20 @@ layout: default
     </td>
     <td>
     Department of Linguistics<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Summer 2020–Spring 2021 [Sems.]</td>
 </tr>
 <tr>
-    <td>Spring 2019 [Sem.]</td>
     <td>
         Electromagnetic Articulography Data Processing<br>
         <span class="subtext">PI: Karee Garvin, M.A.</span>
     </td>
     <td>
     Linguistics Research Apprenticeship Program (LRAP)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2019 [Sem.]</td>
 </tr>
 </table></div>
 
@@ -948,25 +992,25 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Summer 2026</td>
     <td>
     Linguistics 127: Psychology of Language<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Summer 2026</td>
 </tr>
 <tr>
-    <td>Summer 2025</td>
     <td>
     Linguistics 180: Language, Race, and Ethnicity<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Summer 2025</td>
 </tr>
 <tr>
-    <td>Summer 2022</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Summer 2022</td>
 </tr>
 </table></div>
 
@@ -974,115 +1018,115 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Fall 2026 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 181: Languages of the World<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Fall 2026 [Qtr.]</td>
 </tr>
 <tr>
-    <td>Spring 2026 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 147CS: Introduction to Communication Sciences and Disorders<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Spring 2026 [Qtr.]</td>
 </tr>
 <tr>
-    <td>Spring 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 111: Advanced Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Spring 2025 [Qtr.]</td>
 </tr>
 <tr>
-    <td>Winter 2025 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 145: Articulatory Phonetics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Winter 2025 [Qtr.]</td>
 </tr>
 <tr>
-    <td>Summer 2024</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 15: Language in Life<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Summer 2024</td>
 </tr>
 <tr>
-    <td>Fall 2023 [Qtr.]</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 132: Language, Gender, and Sexuality<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Fall 2023 [Qtr.]</td>
 </tr>
 <tr>
-    <td>March 2023</td>
     <td>Teaching Assistant</td>
     <td>
     Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>March 2023</td>
 </tr>
 <tr>
-    <td>Spring 2022 [Sem.]</td>
     <td>
     Head Teaching Assistant<br>
     <span class="subtext">Head of Student Support; Head of CS Scholars</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2022 [Sem.]</td>
 </tr>
 <tr>
-    <td>Fall 2021 [Sem.]</td>
     <td>
     Teaching Assistant<br>
     <span class="subtext">Student Support; CS Scholars</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2021 [Sem.]</td>
 </tr>
 <tr>
-    <td>Summer 2021</td>
     <td>
     Head Teaching Assistant<br>
     <span class="subtext">Head of Content; Head of Student Support</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Summer 2021</td>
 </tr>
 <tr>
-    <td>Spring 2021 [Sem.]</td>
     <td>
     Teaching Assistant<br>
     <span class="subtext">CS Scholars</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2021 [Sem.]</td>
 </tr>
 <tr>
-    <td>Summer 2020</td>
     <td>
     Teaching Assistant<br>
     <span class="subtext">Content</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Summer 2020</td>
 </tr>
 </table></div>
 
@@ -1090,47 +1134,47 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Reader</td>
+    <td>
+    Linguistics 110: Foundations of Computational Linguistics<br>
+    <i>University of California, Santa Barbara</i>
+    </td>
     <td>February 2025</td>
+</tr>
+<tr>
     <td>Reader</td>
     <td>
     Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
-</tr>
-<tr>
     <td>February 2023</td>
-    <td>Reader</td>
-    <td>
-    Linguistics 110: Foundations of Computational Linguistics<br>
-    <i>UC Santa Barbara</i>
-    </td>
 </tr>
 <tr>
-    <td>Fall 2020 [Sem.]</td>
     <td>
     Course Tutor<br>
     <span class="subtext">Parties</span>
     </td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2020 [Sem.]</td>
 </tr>
 <tr>
-    <td>Spring 2020 [Sem.]</td>
     <td>Course Tutor</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2020 [Sem.]</td>
 </tr>
 <tr>
-    <td>Fall 2019 [Sem.]</td>
     <td>Academic Intern</td>
     <td>
     Computer Science 61A: The Structure and Interpretation of Computer Programs<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2019 [Sem.]</td>
 </tr>
 </table></div>
 
@@ -1138,29 +1182,50 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
+    <td>Language, race, and reality TV</td>
+    <td>
+    Linguistics 180: Language, Race, and Ethnicity<br>
+    <i>University of California, Santa Barbara</i><br>
+    <span class="subtext">
+    Instructor: Cormac League, M.A.<br>
+    </span>
+    </td>
     <td>April 2026</td>
-    <td>Language, Technology, and Power</td>
+</tr>
+<tr>
+    <td>Beyond third-person: Epistemologies of race, place, gender, and power in <i>you guys</i> and <i>y’all</i></td>
+    <td>
+    Linguistics 132: Language, Gender, and Sexuality<br>
+    <i>University of California, Santa Barbara</i><br>
+    <span class="subtext">
+    Instructor: Kris Ali, M.Phil.<br>
+    </span>
+    </td>
+    <td>April 2026</td>
+</tr>
+<tr>
+    <td>Language, technology, and power</td>
     <td>
     Linguistics 187: Language, Power, and Learning<br>
-    <i>UC Santa Barbara</i><br>
+    <i>University of California, Santa Barbara</i><br>
     <span class="subtext">
     Instructor: Nicky Macias, M.A.<br>
     </span>
     </td>
+    <td>April 2026</td>
 </tr>
 <tr>
-    <td>November 2024</td>
-    <td>Quantification and Social Justice in Technology</td>
+    <td>Quantification and social justice in technology</td>
     <td>
     Interdisciplinary 84BY: Trans Linguistics Honors Seminar<br>
-    <i>UC Santa Barbara</i><br>
+    <i>University of California, Santa Barbara</i><br>
     <span class="subtext">
     Instructor: Lal Zimman, Ph.D.<br>
     </span>
     </td>
+    <td>November 2024</td>
 </tr>
 <tr>
-    <td>September 2023</td>
     <td>New approaches for operationalizing gender in sociolinguistic research</td>
     <td>
     Linguistics S303: Sociolinguistics<br>
@@ -1169,56 +1234,57 @@ layout: default
     Instructor: Sidney Wong, M.S.<br>
     </span>
     </td>
+    <td>September 2023</td>
 </tr>
 </table></div>
 
 ## Other teaching experience
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>Spring 2022 [Sem.]</td>
     <td>
     Associate Mentor, Electrical Engineering 16A<br>
     <span class="subtext">LGBTQ+ Affinity Section</span>
     </td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2022 [Sem.]</td>
 </tr>
 <tr>
-    <td>Fall 2021 [Sem.]</td>
     <td>
     Associate Mentor, Computer Science 61A<br>
     <span class="subtext">LGBTQ+ Affinity Section</span>
     </td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2021 [Sem.]</td>
 </tr>
 <tr>
+    <td>Senior Mentor, Electrical Engineering 16A</td>
+    <td>
+    Computer Science Mentors (CSM)<br>
+    <i>University of California, Berkeley</i>
+    </td>
     <td>Fall 2020 [Sem.]</td>
+</tr>
+<tr>
     <td>Senior Mentor, Electrical Engineering 16A</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
-</tr>
-<tr>
     <td>Spring 2020 [Sem.]</td>
-    <td>Senior Mentor, Electrical Engineering 16A</td>
-    <td>
-    Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
-    </td>
 </tr>
 <tr>
-    <td>Fall 2019 [Sem.]</td>
     <td>Junior Mentor, Electrical Engineering 16A</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2019 [Sem.]</td>
 </tr>
 </table></div>
 
@@ -1228,312 +1294,313 @@ layout: default
 
 <div class="cv-table-wrapper"><table>
 <tr>
-    <td>September 2026–Present</td>
     <td>President</td>
     <td>
     Drag Club at UCSB<br>
     <i>Associated Students</i> and <i>Graduate Student Association</i><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2026–Present</td>
 </tr>
 <tr>
-    <td>October 2026–September 2027</td>
     <td>LingComm Conference Advisory Board</td>
     <td>LingComm: Communicating Linguistics to Broader Audiences</td>
+    <td>October 2026–September 2027</td>
 </tr>
 <tr>
-    <td>September 2025–June 2026</td>
     <td>Treasurer</td>
     <td>
     Drag Club at UCSB<br>
     <i>Associated Students</i> and <i>Graduate Student Association</i><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2025–June 2026</td>
 </tr>
 <tr>
-    <td>January 2025–June 2026</td>
     <td>Linguistics Department Representative</td>
     <td>
     Graduate Student Association (GSA)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>January 2025–June 2026</td>
 </tr>
 <tr>
-    <td>September 2024–June 2026</td>
     <td>Linguistics Department Representative</td>
     <td>UAW Local 4811</td>
+    <td>September 2024–June 2026</td>
 </tr>
 <tr>
-    <td>September 2024–June 2026</td>
     <td>Officer</td>
     <td>
     Language Interaction and Social Organization Graduate Student Organization<br>
     <i>Graduate Student Association (GSA)</i><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2024–June 2026</td>
 </tr>
 <tr>
-    <td>September 2024–June 2026</td>
     <td>Treasurer</td>
     <td>
     Queer and Trans Graduate Student Association<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2024–June 2026</td>
 </tr>
 <tr>
-    <td>May 2026</td>
     <td>Panelist: Union and labor rights</td>
     <td>
     Linguistics 275: Teaching assistant seminar<br>
     <span class="subtext">Instructor: Mary Bucholtz, Ph.D.</span><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2026</td>
 </tr>
 <tr>
-    <td>September 2024–September 2025</td>
     <td>Coordinator</td>
     <td>
     Drag Club at UCSB<br>
     <i>Graduate Student Association</i><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2024–September 2025</td>
 </tr>
 <tr>
-    <td>May 2025</td>
     <td>Organizer</td>
     <td>
     The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2025</td>
 </tr>
 <tr>
-    <td>May 2025</td>
     <td>Organizer</td>
     <td>
     Symposium on Representing Language and Language Users<br>
     <span class="subtext">The 27th Annual Conference on Language, Interaction, and Social Organization (LISO)</span><br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2025</td>
 </tr>
 <tr>
-    <td>January–March 2025</td>
     <td>Mentor - Womxn in STEM mentorship program</td>
     <td>
-    <br>
     Womxn in Science and Engineering (WiSE)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>January–March 2025</td>
 </tr>
 <tr>
-    <td>February 2025</td>
     <td>Judge - Grad Slam</td>
     <td>
     <br>
     Graduate Division<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>February 2025</td>
 </tr>
 <tr>
-    <td>February 2025</td>
     <td>Reviewer</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 27<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>February 2025</td>
 </tr>
 <tr>
-    <td>November 2024</td>
     <td>Panelist - "Applying to grad school" information session</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>November 2024</td>
 </tr>
 <tr>
-    <td>August 2024</td>
     <td>Zwicky Award Committee Member</td>
     <td>Linguistic Society of America (LSA)</td>
+    <td>August 2024</td>
 </tr>
 <tr>
-    <td>September 2023–June 2024</td>
     <td>Peer Mentor</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>September 2023–June 2024</td>
 </tr>
 <tr>
-    <td>June 2023–June 2024</td>
     <td>Graduate Student Representative</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>June 2023–June 2024</td>
 </tr>
 <tr>
-    <td>May 2024</td>
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 26<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2024</td>
 </tr>
 <tr>
-    <td>March 2023–March 2024</td>
     <td>Colloquium Coordinator</td>
     <td>
     Department of Linguistics<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>March 2023–March 2024</td>
 </tr>
 <tr>
-    <td>January 2024</td>
     <td>Reviewer</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 26<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>January 2024</td>
 </tr>
 <tr>
-    <td>May 2023</td>
     <td>Session Moderator</td>
     <td>
     The 26th Annual Conference on Language, Interaction, and Social Organization (LISO)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>May 2023</td>
 </tr>
 <tr>
-    <td>April 2023</td>
     <td>Session Chair</td>
     <td>
     Workshop on American Indigenous Languages (WAIL) 25<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>April 2023</td>
 </tr>
 <tr>
-    <td>Fall 2022 [Qtr.]</td>
     <td>Lab Manager</td>
     <td>
     Trans Research in Linguistics Lab (TRILL)<br>
-    <i>UC Santa Barbara</i>
+    <i>University of California, Santa Barbara</i>
     </td>
+    <td>Fall 2022 [Qtr.]</td>
 </tr>
 <tr>
-    <td>April 2022</td>
     <td>Organizer</td>
     <td>
     The Sixth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>April 2022</td>
 </tr>
 <tr>
-    <td>Spring 2022 [Sem.]</td>
     <td>President</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2022 [Sem.]</td>
 </tr>
 <tr>
-    <td>Fall 2020–Spring 2022 [Sems.]</td>
     <td>External Affairs Director</td>
     <td>
     BareStage Productions<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2020–Spring 2022 [Sems.]</td>
 </tr>
 <tr>
-    <td>Fall 2019–Spring 2022 [Sems.]</td>
     <td>Officer</td>
     <td>
     Society of Linguistics Undergraduate Students (SLUgS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2019–Spring 2022 [Sems.]</td>
 </tr>
 <tr>
-    <td>Spring 2022 [Sem.]</td>
     <td>President</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2022 [Sem.]</td>
 </tr>
 <tr>
-    <td>Fall 2021 [Sem.]</td>
     <td>External Vice President</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Fall 2021 [Sem.]</td>
 </tr>
 <tr>
-    <td>August 2021</td>
     <td>Orientation Leader</td>
     <td>
     New Student Services (NSS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>August 2021</td>
 </tr>
 <tr>
-    <td>April 2021</td>
     <td>Organizer</td>
     <td>
     The Fifth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>April 2021</td>
 </tr>
 <tr>
-    <td>Spring 2021 [Sem.]</td>
     <td>Socials Chair</td>
     <td>
     Computer Science Mentors (CSM)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>Spring 2021 [Sem.]</td>
 </tr>
 <tr>
-    <td>November 2019</td>
     <td>Organizer</td>
     <td>
     The Fourth Annual Berkeley Undergraduate Linguistics Symposium<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>November 2019</td>
 </tr>
 <tr>
-    <td>August 2019</td>
     <td>Orientation Leader</td>
     <td>
     New Student Services (NSS)<br>
-    <i>UC Berkeley</i>
+    <i>University of California, Berkeley</i>
     </td>
+    <td>August 2019</td>
 </tr>
 </table></div>
 
 ## Lab memberships
 <div class="cv-table-wrapper"><table>
-    <tr><td>
-        Computational Psycholinguistics of Listening and Speaking (CPLS) Lab<br>
-        <span class="subtext">
-            UCSB Department of Linguistics<br>
-            PI: Simon Todd, Ph.D.<br>
-            <a href="https://ucsb-cpls-lab.github.io/index.html" target="_blank">[ucsb-cpls-lab.github.io]</a>
-        </span>
-    </td></tr>
-    <tr><td>
-        MUMBLE Lab<br>
-        <span class="subtext">
-            UCSB Department of Linguistics<br>
-            PI: Mary Bucholtz, Ph.D.
-        </span>
-    </td></tr>
-    <tr><td>
-        Trans Research in Linguistics Lab (TRILL)<br>
-        <span class="subtext">
-            UCSB Department of Linguistics<br>
-            PI: Lal Zimman, Ph.D.<br>
-            <a href="https://trillucsb.org/" target="_blank">[trillucsb.org]</a>
-        </span>
-    </td></tr>
+    <tr>
+        <td>Trans Research in Linguistics Lab (TRILL)</td>
+        <td>
+        UCSB Department of Linguistics<br>
+        PI: Lal Zimman, Ph.D.<br>
+        <a href="https://trillucsb.org/" target="_blank">[trillucsb.org]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Computational Psycholinguistics of Listening and Speaking (CPLS) Lab</td>
+        <td>
+        UCSB Department of Linguistics<br>
+        PI: Simon Todd, Ph.D.<br>
+        <a href="https://ucsb-cpls-lab.github.io/index.html" target="_blank">[ucsb-cpls-lab.github.io]</a>
+        </td>
+    </tr>
+    <tr>
+        <td>MUMBLE Lab</td>
+        <td>
+        UCSB Department of Linguistics<br>
+        PI: Mary Bucholtz, Ph.D.
+        </td>
+    </tr>
 </table></div>
+
+<div style="page-break-after: always; visibility: hidden"> </div>
 
 ## Languages and skills
 <div class="cv-table-wrapper"><table>
@@ -1552,3 +1619,4 @@ layout: default
     </td>
 </tr>
 </table></div>
+

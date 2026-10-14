@@ -629,10 +629,27 @@ footer {
   }
 }
 @media print {
+  * {
+    font-family: "Times New Roman";
+    color: #000;
+  }
+  h1 {
+    font-family: "Times New Roman";
+  }
   body {
-    padding: 0.4in;
     font-size: 12pt;
-    color: #444;
+  }
+  header {
+    display: none;
+  }
+  footer {
+    display: none;
+  }
+  tr {
+    break-inside: avoid;
+  }
+  h1, h2, h3 {
+    break-after: avoid;
   }
 }
 

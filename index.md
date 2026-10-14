@@ -4,11 +4,11 @@ layout: default
 
 <!--attribution for glasses: <a href="https://www.vectorstock.com/royalty-free-vector/green-round-eyeglasses-icon-vector-42763186">Vector image by VectorStock / faizan11</a>-->
 
-# hello!
+# hi <3
 
-i'm a linguist studying queer and trans language. i'm a graduate student at uc santa barbara, where i'm a member of the [trans research in linguistics lab (trill)](https://trillucsb.org/) under dr. lal zimman, and the [computational psycholinguistics of listening and speaking (cpls) lab](https://ucsb-cpls-lab.github.io/) under dr. simon todd. i'm also a [drag queen](#drag) based in santa barbara, and am santa barbara's current regining royalty of pride!
+i'm a linguist researching queer and trans language. i'm a graduate student at uc santa barbara, where i'm a member of the [trans research in linguistics lab (trill)](https://trillucsb.org/) under dr. lal zimman, and the [computational psycholinguistics of listening and speaking (cpls) lab](https://ucsb-cpls-lab.github.io/) under dr. simon todd. i'm also a [drag queen](#drag) based in santa barbara, which is becoming increasingly less and less separate from my life as a researcher.
 
-my research program examines how queer and especially trans people are represented in and through language, with the goal of using queer and trans frameworks to improve our understanding of langauge and social meaning in general. [my dissertation research](#quantifying-sex-and-gender-in-linguistics) examines how and why linguists statistically analyze gender in the way they do, and aims to develop novel empirically-grounded, trans-affirming methods. [my M.A. research](#you-guys-and-yall) looked at the english second-person pronouns _you guys_ and _y'all_. i also study [perceptions of gender, sexuality, and the voice](#perceptual-sociophonetics), and sometimes i write about popular media (especially reality tv).
+my research program broadly examines how queer and especially trans people are represented in and through language, with the goal of using queer and trans frameworks to improve our understanding of langauge and social meaning in general. [my dissertation research](#quantifying-sex-and-gender-in-linguistics) examines how and why linguists statistically analyze gender in the way they do, and aims to develop novel empirically-grounded, trans-affirming methods. [my M.A. research](#you-guys-and-yall) looked at the english second-person pronouns _you guys_ and _y'all_. i also study [perceptions of gender, sexuality, and the voice](#perceptual-sociophonetics), and sometimes i write about popular media (especially reality tv).
 
 you can read more about my [research](#research) and [teaching](#teaching) below.
 
@@ -47,14 +47,6 @@ This project grew out of a long collaboration with Lal Zimman, Montreal Benesch,
     <td>Representing gender identification in a trans corpus: Umbrella terms, comprehensive categories, and trans self-definition</td>
     <td>Penn Working Papers in Linguistics<br>
     <span class="subtext">Selected papers from NWAV 53</span></td>
-</tr>
-<tr>
-    <td>May 2025</td>
-    <td>
-    Demographics in linguistics research: The sex/gender question<br>
-    <span class="subtext">Cooper Bedin, Montreal Benesch, Marina Zhukova, and Lal Zimman</span>
-    </td>
-    <td>Linguistic Society of American (LSA) Webinar</td>
 </tr>
 <tr>
     <td>2024</td>
